@@ -17,7 +17,7 @@ Préparation de données, réalisation de *dashboards*.
 Préparation de données, analyse exploratoire, analyse descriptive et tests statistiques.
 * [Projet 8 : Analysez des indicateurs de l'égalité femme-homme avec Knime](./projets/projet-8/)<br>
 Création d'un rapport automatique dans un ETL (importation, nettoyage, visualisation et exportation).
-* [Projet 7 : Optimiser la gestion des données d'une boutique](./projets/projet-7/)<br>
+* [Projet 7 : Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](./projets/projet-7/)<br>
 Préparation de données, réalisation de *dashboards* pour le suivi de l'avancement des projets.
 * [Projet 6 : Optimiser la gestion des données d'une boutique](./projets/projet-6/)<br>
 Préparation de données, analyse exploratoire, analyse univariée.
