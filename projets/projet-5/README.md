@@ -19,7 +19,10 @@ Nous sommes *Data Analyst* chez Laplace Immo, un réseau national d’agences im
 * Créer le schéma d'une base de données.
 * Charger des données dans une base de données.
 
+## Modèle relationnel des données
+<img src='./images/modele-relationnel-donnees.png' width=640px />
+
 ## Base de données implémentée dans SQLiteStudio
-<img src='./images/01.PNG' width=800px />
+<img src='./images/01.png' width=800px />
 ## Exemple de requête :
-<img src='./images/02.PNG' width=800px />
+<img src='./images/02.png' width=800px />
