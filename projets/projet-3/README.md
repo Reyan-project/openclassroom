@@ -40,4 +40,4 @@
 
 <img src='./images/7-données table 2.png' width=800px />
 
-<img src='./images/8-exemple d'une requete.png' width=800px />
+<img src='./images/8-exemple requete.png' width=800px />
