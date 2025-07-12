@@ -1,4 +1,4 @@
-# Projet 7 : Rapport de mixité sociale dans les lycées avec Power BI
+# Projet 7 : visualisation de données avec Power BI
 
 ## &#128203; Présentation du sujet
 
