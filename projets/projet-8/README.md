@@ -10,6 +10,11 @@ Automatiser la création d'un rapport de diagnostic sur l'égalité professionne
 * **Pandas** : importation et regroupements des sources de données.
 * **Knime**  : création du rapport de diagnostic.
 
+## 💡 Soft Skills
+* Esprit d’analyse
+* Orientation business
+* Communication claire
+  
 ## &#127891; Compétences acquises
 * Transférer des données vers une zone de préparation.
 * Collecter des données en respectant le RGPD.
