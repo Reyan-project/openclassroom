@@ -11,6 +11,13 @@ Nous sommes consultant *Data Analyst* chez BottleNeck, un marchand de vin presti
 * **Pandas** et **Numpy** : importation, préparation, nettoyage des données.
 * **plotly** et **seaborn** :  visualisations.
 
+## 💡 Soft Skills
+* Résolution de problèmes
+* Créativité
+* Adaptabilité
+* Autonomie
+* Gestion des priorités
+   
 ## &#127891; Compétences acquises
 * Gérer une base de données, les erreurs de saisies, les outliers, et connecter plusieurs bases ensembles.
 * Faire des graphiques et des recherches de demande spécifiques.
