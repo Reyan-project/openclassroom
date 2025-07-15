@@ -13,6 +13,14 @@ En tant que consultant *Data Analyst* nous effectuons une prestation en régie a
 * **SciPy**, **scikit-learn** et **statsmodels**  : mise en place de l'algorithme.
 * **Joblib** : pour l'exportation de l'algorithme.
 
+
+## 💡 Soft Skills
+
+* Esprit de recherche
+* Expérimentation
+* Précision
+* Gestion du doute scientifique
+
 ## &#127891; Compétences acquises
 * Réaliser une régression linéaire.
 * Opérer des classifications automatiques pour partitionner les données.
