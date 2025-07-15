@@ -29,7 +29,7 @@ Pour cela, il nous faut un tableau de bord pour :
 ## 💡 Soft Skills
 * Préparation et analyse de données ouvertes
 * Reporting
-* 
+  
 # Product Strategy Canvas
 
 
