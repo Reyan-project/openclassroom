@@ -10,6 +10,13 @@ Réaliser une étude sur le thème de la sous-nutrition et livrer nos analyses.
 * **Pandas** : importation, préparation et vérification des données.
 * **Pandas** et **Matplolib** : réalisation des analyses et visualisations.
 
+## 💡 Soft Skills
+* Esprit d’analyse
+* Curiosité
+* Rigueur scientifique
+* Gestion du temps
+* Communication vulgarisée
+
 ## &#127891; Compétences acquises
 * Rédiger et présenter une méthodologie d'exploration et d'analyse des données.
 * Utiliser des librairies spécialisées pour les traitements data.
