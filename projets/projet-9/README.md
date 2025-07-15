@@ -11,6 +11,11 @@ Obtenir un jeu de données exploitables à partir des fichiers source, puis réa
 * **Pandas** et **Matplolib** : réalisation des analyses et visualisations.
 * **SciPy** : tests statistiques (corrélations profil client/comportement)
 
+## 💡 Soft Skills
+* Esprit d’analyse
+* Orientation business
+* Communication claire
+
 ## &#127891; Compétences acquises
 * Réaliser un test statistique.
 * Réaliser une analyse bivariée pour interpréter des données.
