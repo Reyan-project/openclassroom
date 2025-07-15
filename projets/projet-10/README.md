@@ -9,10 +9,6 @@ DWFA présente 3 domaines d’expertise :
 2. Modernisation de services d’accès à l’eau déjà existants
 3. Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau
 
-
-
-
-
 ## Mock-up
 
 <img src='./images/Mockup.jpg' height=640px /> 
@@ -24,8 +20,16 @@ Pour cela, il nous faut un tableau de bord pour :
 1. Identifier les pays qui rencontrent des difficultés d’accès à l’eau potable.
 1. Identifier ceux pour lesquels concentrer nos efforts.
 1. 3 vues (continentale, national et mondial).
-  
 
+## 💡 Soft Skills
+* Engagement environnemental
+* Rigueur
+* Méthodologie
+  
+## 💡 Soft Skills
+* Préparation et analyse de données ouvertes
+* Reporting
+* 
 # Product Strategy Canvas
 
 
