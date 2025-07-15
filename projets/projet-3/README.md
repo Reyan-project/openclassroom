@@ -16,6 +16,12 @@
 * **Excel** : Comprendre et travail des données.
 * **SQLiteStudio** : implémentation de la base et requêtes.
 
+## 💡 Soft Skills
+* Précision
+* Structure de la pensée
+* Documentation
+* Fiabilité
+
 ## &#127891; Compétences acquises
 * Mettre à jour un catalogue de données.
 * Créer des tables dans une base de données.
