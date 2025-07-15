@@ -46,3 +46,20 @@ Conception et création de tables, requêtes SQL.
 | Power BI            |           |           | &#10003;  |          |          | &#10003; |          |          |          |          |
 | SQLite              |           |           |           |          |          |          |          | &#10003; |          | &#10003; |
 | Excel               |           |           |           |          |          |          |          |          |          | &#10003; |
+
+---
+
+## 💡 Soft Skills de la formation
+
+| Soft skill             | Mise en application dans les projets                                                             |
+|------------------------|--------------------------------------------------------------------------------------------------|
+| **Rigueur**            | Respect strict des documents techniques, conventions, logique de code et documentation propre   |
+| **Communication**      | Présentation orale, création de dashboards clairs, documentation pédagogique                    |
+| **Curiosité**          | Veille technologique continue, expérimentation de nouvelles méthodes                            |
+| **Adaptabilité**       | Capacité à apprendre de nouveaux outils et à m’adapter selon les données métier                 |
+| **Autonomie**          | Réalisation complète de projets complexes sans encadrement direct                               |
+| **Esprit d’analyse**   | Définition des KPIs, interprétation des résultats et recommandations business                   |
+| **Pédagogie**          | Capacité à vulgariser des éléments techniques pour des parties non-techniques                   |
+| **Organisation**       | Structuration de projets, planification via diagrammes de Gantt, respect des deadlines          |
+
+
