@@ -14,7 +14,22 @@ Pour cela, il nous ai demaindé :
 1. Créé le Product Strategy Canvas
 1. Prétraiter les données qui seront ensuite utilisées dans Power BI.
 1. Créer le tableau de bord.
-  
+
+## &#128295; Outil utilisé
+Power BI
+
+## 💡 Soft Skills
+* Sens de la synthèse
+* Visualisation claire
+* Pédagogie
+* Orientation client
+* Ecoute des besoins
+
+## &#127891; Compétences acquises
+* Data visualisation
+* Indicateurs clés (KPI)
+* DAX
+* Interactivité
 
 # Product Strategy Canvas
 
@@ -91,7 +106,7 @@ Toute la préparation des données a été effectuées dans **Power BI**
 
 ## Tableau de bord
 
-Le lien du fichier Power BI, dont les captures d'écran ci-dessous sont issues, est disponible [ici](./Sanitoral databoard.pbix).
+Le lien du fichier Power BI, dont les captures d'écran ci-dessous sont issues, est disponible [ici](<Sanitoral databoard.pbix>).
 
 ### Tableau de bord Directeur général
 <img src='./images/rapport-power-bi-page-1.png' width=800px />
