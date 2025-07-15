@@ -12,6 +12,12 @@ Les données utilisées sont issues des [statistiques de la *Food and Agricultur
 * **Pandas**, **Matplotlib** et **Seaborn** : préparation et analyse descriptive des données.
 * **SciPy** et **scikit-learn**  : *clusterings*.
 
+## 💡 Soft Skills
+* Curiosité
+* Autonomie
+* Esprit de synthèse
+* Clarté dans la présentation
+  
 ## &#127891; Compétences acquises
 * Effectuer un clustering simple.
 * Explorer des données pour synthétiser des variables.
