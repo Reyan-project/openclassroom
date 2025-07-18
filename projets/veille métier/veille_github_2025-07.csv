@@ -1,0 +1,133 @@
+Langage,Nom,Type,Déjà_connu,Maîtrise,À_travailler,Objectif_personnel,Étoiles,Date,Description
+Python,markitdown,Autre,,,,,2403,2025-07,Python tool for converting files and office documents to Markdown.
+Python,localGPT,NLP,,,,,45,2025-07,Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+Python,erpnext,Autre,,,,,333,2025-07,Free and Open Source Enterprise Resource Planning (ERP)
+Python,ART,ML,,,,,429,2025-07,"Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!"
+Python,mcp-agent,NLP,,,,,50,2025-07,Build effective agents using Model Context Protocol and simple workflow patterns
+Python,vanna,NLP,,,,,146,2025-07,🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+Python,OpenBB,Autre,,,,,342,2025-07,"Investment Research for Everyone, Everywhere."
+Python,mindsdb,API,,,,,233,2025-07,AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+Python,graphiti,ML,,,,,398,2025-07,Build Real-Time Knowledge Graphs for AI Agents
+Python,qlib,ML,,,,,79,2025-07,"Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process."
+Python,Second-Me,ML,,,,,28,2025-07,"Train your AI self, amplify you, bridge the world"
+Python,KubeDiagrams,Data,,,,,37,2025-07,"Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state"
+Python,Ghost-Downloader-3,ML,,,,,123,2025-07,A cross-platform QUIC AI-boost fluent-design multi-threaded downloader built with Python.
+Python,localstack,API,,,,,44,2025-07,💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+Python,agent-zero,Web,,,,,24,2025-07,Agent Zero AI framework
+Python,server,API,,,,,8,2025-07,The Triton Inference Server provides an optimized cloud and edge inferencing solution.
+JavaScript,ToolJet,Web,,,,,110,2025-07,"Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀"
+JavaScript,Checkmate,API,,,,,409,2025-07,"Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)"
+JavaScript,webvm,Web,,,,,39,2025-07,Virtual Machine for the Web
+JavaScript,decap-cms,Web,,,,,7,2025-07,A Git-based CMS for Static Site Generators
+JavaScript,meshery,Autre,,,,,5,2025-07,"Meshery, the cloud native manager"
+JavaScript,WebGL-Fluid-Simulation,Web,,,,,3,2025-07,Play with fluids in your browser (works even on mobile)
+JavaScript,openzeppelin-contracts-upgradeable,Autre,,,,,0,2025-07,"Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts."
+JavaScript,react,Web,,,,,59,2025-07,The library for web and native user interfaces.
+JavaScript,create-react-app,Web,,,,,10,2025-07,Set up a modern web app by running one command.
+JavaScript,axios,Web,,,,,9,2025-07,Promise based HTTP client for the browser and node.js
+JavaScript,semantic-release,Autre,,,,,6,2025-07,📦🚀 Fully automated version management and package publishing
+JavaScript,webpack,Web,,,,,2,2025-07,"A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through ""loaders"", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+Rust,amazon-q-developer-cli,Autre,,,,,16,2025-07,✨ Agentic chat experience in your terminal. Build applications using natural language.
+Rust,rustdesk,Autre,,,,,133,2025-07,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+Rust,helix,NLP,,,,,38,2025-07,A post-modern modal text editor.
+Rust,nexus-cli,Autre,,,,,4,2025-07,Command line interface for supplying proofs to the Nexus network.
+Rust,zola,Web,,,,,10,2025-07,A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+Rust,rspack,Web,,,,,7,2025-07,The fast Rust-based web bundler with webpack-compatible API 🦀️
+Rust,opendal,Autre,,,,,8,2025-07,"Apache OpenDAL: One Layer, All Storage."
+Rust,linera-protocol,ML,,,,,35,2025-07,Main repository for the Linera protocol
+Rust,forge,NLP,,,,,25,2025-07,"AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models"
+Rust,tree-sitter,Autre,,,,,19,2025-07,An incremental parsing system for programming tools
+Rust,dynamo,Web,,,,,10,2025-07,A Datacenter Scale Distributed Inference Serving Framework
+Rust,zed,Autre,,,,,54,2025-07,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+Rust,rio,Web,,,,,48,2025-07,A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+Rust,paradedb,Autre,,,,,60,2025-07,"ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads."
+Rust,rnote,Autre,,,,,27,2025-07,Sketch and take handwritten notes.
+Rust,clewdr,API,,,,,8,2025-07,High Performance LLM Reverse Proxy
+Rust,niri,Autre,,,,,27,2025-07,A scrollable-tiling Wayland compositor.
+Rust,ruff,Autre,,,,,28,2025-07,"An extremely fast Python linter and code formatter, written in Rust."
+Rust,arrow-rs,Autre,,,,,5,2025-07,Official Rust implementation of Apache Arrow
+Rust,bevy,Data,,,,,14,2025-07,A refreshingly simple data-driven game engine built in Rust
+Rust,gitbutler,API,,,,,8,2025-07,"The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte"
+Go,argo-workflows,Autre,,,,,5,2025-07,Workflow Engine for Kubernetes
+Go,badger,Autre,,,,,6,2025-07,Fast key-value DB in Go.
+Go,ctop,ML,,,,,54,2025-07,Top-like interface for container metrics
+Go,golangci-lint,Autre,,,,,5,2025-07,Fast linters runner for Go
+Go,podman,ML,,,,,44,2025-07,Podman: A tool for managing OCI containers and pods.
+Go,aws-sdk-go-v2,Autre,,,,,4,2025-07,AWS SDK for the Go programming language.
+Go,langchaingo,NLP,,,,,13,2025-07,"LangChain for Go, the easiest way to write LLM-based programs in Go"
+Go,gitleaks,Autre,,,,,15,2025-07,Find secrets with Gitleaks 🔑
+Go,oapi-codegen,API,,,,,17,2025-07,Generate Go client and server boilerplate from OpenAPI 3 specifications
+Go,zep,Autre,,,,,7,2025-07,"Zep | Examples, Integrations, & More"
+Go,grpc-go,Autre,,,,,7,2025-07,The Go language implementation of gRPC. HTTP/2 based RPC
+Go,milvus,Data,,,,,23,2025-07,"Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+Go,harvester,Autre,,,,,3,2025-07,Open source hyperconverged infrastructure (HCI) software
+Go,etcd,Data,,,,,7,2025-07,Distributed reliable key-value store for the most critical data of a distributed system
+Go,HAMi,ML,,,,,4,2025-07,Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)
+Go,testcontainers-go,API,,,,,1,2025-07,"Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done."
+Go,gorm,ML,,,,,9,2025-07,"The fantastic ORM library for Golang, aims to be developer friendly"
+Go,tidb,Data,,,,,6,2025-07,"TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications."
+Go,autoscaler,Autre,,,,,3,2025-07,Autoscaling components for Kubernetes
+TypeScript,MusicFree,Autre,,,,,159,2025-07,插件化、定制化、无广告的免费音乐播放器
+TypeScript,DocsGPT,NLP,,,,,21,2025-07,"DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in."
+TypeScript,claude-code-router,ML,,,,,502,2025-07,"Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic."
+TypeScript,OP_20,NLP,,,,,9,2025-07,OP_20 example token
+TypeScript,budibase,API,,,,,81,2025-07,"Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform.."
+TypeScript,shadcn-admin,Autre,,,,,34,2025-07,Admin Dashboard UI built with Shadcn and Vite.
+TypeScript,spacedrive,Autre,,,,,56,2025-07,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+TypeScript,x-render,Autre,,,,,25,2025-07,🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
+TypeScript,scriptcat,Web,,,,,41,2025-07,"ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展"
+TypeScript,aws-toolkit-vscode,Autre,,,,,4,2025-07,"Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources"
+TypeScript,jsoncrack.com,Data,,,,,212,2025-07,"✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs."
+TypeScript,echarts,Web,,,,,13,2025-07,"Apache ECharts is a powerful, interactive charting and data visualization library for browser"
+TypeScript,midday,Autre,,,,,19,2025-07,"Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers"
+TypeScript,material-ui,Autre,,,,,18,2025-07,Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+TypeScript,jest,Web,,,,,5,2025-07,Delightful JavaScript Testing.
+TypeScript,kagent,ML,,,,,7,2025-07,Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+TypeScript,browserless,Web,,,,,42,2025-07,Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
+TypeScript,director,API,,,,,21,2025-07,Connect any LLM to any MCP server in seconds. Local-first. 100% free and open source.
+TypeScript,umami,Data,,,,,43,2025-07,"Umami is a modern, privacy-focused alternative to Google Analytics."
+Java,kafka,Autre,,,,,11,2025-07,Mirror of Apache Kafka
+Java,commons-lang,Autre,,,,,0,2025-07,Apache Commons Lang
+Java,DSA-Bootcamp-Java,Data,,,,,21,2025-07,"This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs."
+Java,lawnchair,Autre,,,,,15,2025-07,No clever tagline needed.
+Java,doris,Data,,,,,6,2025-07,"Apache Doris is an easy-to-use, high performance and unified analytics database."
+Java,Java,Autre,,,,,24,2025-07,All Algorithms implemented in Java
+Java,wvp-GB28181-pro,Web,,,,,5,2025-07,WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。
+Java,fineract,Autre,,,,,1,2025-07,Apache Fineract
+Java,hbase,Autre,,,,,0,2025-07,Apache HBase
+Java,intellij-community,Autre,,,,,8,2025-07,IntelliJ IDEA Community Edition & IntelliJ Platform
+Java,langchain4j,ML,,,,,14,2025-07,Java version of LangChain
+Java,trino,API,,,,,8,2025-07,"Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)"
+Java,nifi,Autre,,,,,4,2025-07,Apache NiFi
+Java,netty,Web,,,,,8,2025-07,Netty project - an event-driven asynchronous network application framework
+Java,pulsar,Autre,,,,,6,2025-07,Apache Pulsar - distributed pub-sub messaging system
+Java,xxl-job,Web,,,,,11,2025-07,A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+Java,forge,Autre,,,,,6,2025-07,An unofficial rules engine for the world's greatest card game.
+Java,skywalking,Autre,,,,,5,2025-07,"APM, Application Performance Monitoring System"
+Java,dd-trace-java,API,,,,,0,2025-07,Datadog APM client for Java
+Java,nacos,ML,,,,,6,2025-07,"an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications."
+Java,cassandra,Autre,,,,,1,2025-07,Apache Cassandra®
+Java,zookeeper,Autre,,,,,0,2025-07,Apache ZooKeeper
+Java,dbeaver,API,,,,,22,2025-07,Free universal database tool and SQL client
+Java,flink,Autre,,,,,6,2025-07,Apache Flink
+Jupyter,segment-anything,ML,,,,,23,2025-07,"The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
+Jupyter,llm-app,API,,,,,160,2025-07,"Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more."
+Jupyter,Qwen2.5-VL,NLP,,,,,28,2025-07,"Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud."
+Jupyter,sam2,ML,,,,,34,2025-07,"The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
+Jupyter,AI-For-Beginners,ML,,,,,43,2025-07,"12 Weeks, 24 Lessons, AI for All!"
+Jupyter,generative-ai-for-beginners,ML,,,,,57,2025-07,"21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/"
+Jupyter,mlops-zoomcamp,Data,,,,,13,2025-07,Free MLOps course from DataTalks.Club
+Jupyter,rag-from-scratch,Autre,,,,,4,2025-07,Pas de description
+Jupyter,GenAI_Agents,ML,,,,,57,2025-07,"This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems."
+Jupyter,langchain-academy,Autre,,,,,8,2025-07,Pas de description
+Jupyter,RAG_Techniques,NLP,,,,,37,2025-07,This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+Jupyter,learn-agentic-ai,ML,,,,,9,2025-07,"Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes."
+Jupyter,gateway-api-inference-extension,API,,,,,3,2025-07,Gateway API Inference Extension
+Jupyter,ml-course-hse,Autre,,,,,5,2025-07,Машинное обучение на ФКН ВШЭ
+Jupyter,deepmind-research,ML,,,,,1,2025-07,This repository contains implementations and illustrative code to accompany DeepMind publications
+Jupyter,ai-engineering-hub,NLP,,,,,85,2025-07,"In-depth tutorials on LLMs, RAGs and real-world AI agent applications."
+Jupyter,Python-100-Days,Autre,,,,,69,2025-07,Python - 100天从新手到大师
+Jupyter,langchain,NLP,,,,,94,2025-07,🦜🔗 Build context-aware reasoning applications
+Jupyter,fabric-toolbox,Autre,,,,,3,2025-07,"Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your success with Microsoft Fabric, brought to you by Fabric CAT."
+Jupyter,Isaac-GR00T,ML,,,,,7,2025-07,NVIDIA Isaac GR00T N1.5 is the world's first open foundation model for generalized humanoid robot reasoning and skills.
+Jupyter,Data-Science-Projects,Data,,,,,4,2025-07,Collection of data science projects in Python
