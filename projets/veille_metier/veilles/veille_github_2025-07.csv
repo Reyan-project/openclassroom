@@ -17,7 +17,7 @@ JavaScript,remote-jobs,Autre,,,,,360,2025-07,A list of semi to fully remote-frie
 JavaScript,svelte,Web,,,,,24,2025-07,web development for the rest of us
 JavaScript,paperless-ai,API,,,,,12,2025-07,"An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents."
 JavaScript,Sub-Store,Autre,,,,,11,2025-07,"Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!"
-JavaScript,context7,API,,,,,257,2025-07,Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+JavaScript,context7,API,,,,,133,2025-07,Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 JavaScript,bilibili-API-collect,API,,,,,19,2025-07,哔哩哔哩-API收集整理【不断更新中....】
 JavaScript,monaco-editor,Web,,,,,8,2025-07,A browser based code editor
 JavaScript,Spider_XHS,Autre,,,,,10,2025-07,小红书爬虫数据采集，小红书全域运营解决方案
@@ -75,22 +75,22 @@ Go,terraform-provider-azurerm,Autre,,,,,2,2025-07,Terraform provider for Azure R
 TypeScript,bknd,Autre,,,,,138,2025-07,"Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more."
 TypeScript,n8n,ML,,,,,699,2025-07,"Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
 TypeScript,strapi,Web,,,,,236,2025-07,"🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
-TypeScript,claude-code-router,ML,,,,,476,2025-07,"Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic."
-TypeScript,midday,Autre,,,,,168,2025-07,"Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers"
+TypeScript,claude-code-router,ML,,,,,254,2025-07,"Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic."
+TypeScript,midday,Autre,,,,,60,2025-07,"Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers"
 TypeScript,code-server,Web,,,,,31,2025-07,VS Code in the browser
-TypeScript,MusicFree,Autre,,,,,190,2025-07,插件化、定制化、无广告的免费音乐播放器
+TypeScript,MusicFree,Autre,,,,,53,2025-07,插件化、定制化、无广告的免费音乐播放器
 TypeScript,astro,Web,,,,,20,2025-07,The web framework for content-driven websites. ⭐️ Star to support our work!
 TypeScript,DocsGPT,NLP,,,,,238,2025-07,"DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in."
 TypeScript,better-auth,Web,,,,,50,2025-07,The most comprehensive authentication framework for TypeScript
 TypeScript,freeCodeCamp,Autre,,,,,145,2025-07,"freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
-TypeScript,dify,Autre,,,,,158,2025-07,Production-ready platform for agentic workflow development.
+TypeScript,dify,Autre,,,,,88,2025-07,Production-ready platform for agentic workflow development.
 TypeScript,firecrawl,Web,,,,,37,2025-07,"🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API."
 TypeScript,ui,Web,,,,,62,2025-07,"A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
 TypeScript,nocodb,ML,,,,,29,2025-07,🔥 🔥 🔥 Open Source Airtable Alternative
 TypeScript,Zero,ML,,,,,28,2025-07,Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
-TypeScript,angular,Web,,,,,19,2025-07,Deliver web apps with confidence 🚀
+TypeScript,angular,Web,,,,,14,2025-07,Deliver web apps with confidence 🚀
 TypeScript,social-app,Web,,,,,5,2025-07,"The Bluesky Social application for Web, iOS, and Android"
-TypeScript,midscene,Web,,,,,20,2025-07,"Your AI Operator for Web, Android, Automation & Testing."
+TypeScript,midscene,Web,,,,,8,2025-07,"Your AI Operator for Web, Android, Automation & Testing."
 TypeScript,refly,Autre,,,,,5,2025-07,"The world's first open-source ""Vibe Workflow"" platform for complex tasks."
 Java,DevOps-Projects,Autre,,,,,21,2025-07,𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅]
 Java,intellij-community,Autre,,,,,18,2025-07,IntelliJ IDEA Community Edition & IntelliJ Platform
