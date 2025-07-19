@@ -18,10 +18,6 @@ jobs:
           pip install --upgrade pip
           pip install requests beautifulsoup4 pandas jupyter
 
-      - name: ⚙️ Convertir le notebook en script Python
-        run: |
-          jupyter nbconvert --to python veuille.ipynb
-
       - name: 📂 Créer le dossier veilles si absent
         run: mkdir -p veilles
 
