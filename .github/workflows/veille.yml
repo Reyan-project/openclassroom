@@ -2,7 +2,7 @@ name: veille automatique du mois
 
 on:
   schedule:
-    - cron: '5 6 1 * *'       # Tous les 1ers du mois à 6:05 UTC
+    - cron: '5 6 1 * *' # chaque 1er du mois à 6h05 UTC
   workflow_dispatch:
 
 jobs:
@@ -13,22 +13,33 @@ jobs:
       - name: 📥 Cloner le dépôt
         uses: actions/checkout@v4
 
+      - name: 📝 Lister tous les fichiers (debug racine)
+        run: ls -al
+
+      - name: 📝 Lister tous les fichiers sous 'projets' (debug)
+        run: ls -al projets || echo "Pas de dossier 'projets'"
+
+      - name: 📝 Lister les fichiers dans 'projets/veille_metier' (debug)
+        run: ls -al projets/veille_metier || echo "Pas de dossier veille_metier"
+
       - name: 📦 Installer Python et les dépendances
         run: |
           pip install --upgrade pip
           pip install requests beautifulsoup4 pandas jupyter
 
-      - name: 📂 Vérifier la présence du dossier veilles
-        run: mkdir -p "projets/veille métier/veilles"
-      - name: 📝 Lister les fichiers du dossier
-        run: ls -al projets/veille_metier
-      - name: 🚀 Lancer le script
-        run: python "projets/veille métier/veuille.py"
+      - name: 📂 Créer le dossier veilles si absent
+        run: mkdir -p projets/veille_metier/veilles
+
+      - name: 🚀 Lancer le script Python
+        run: python projets/veille_metier/veuille.py
+
+      - name: 📝 Vérifier fichiers dans 'projets/veille_metier/veilles'
+        run: ls -al projets/veille_metier/veilles
 
       - name: 🔄 Ajouter les fichiers générés dans Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add "projets/veille métier/veilles/*"
+          git add projets/veille_metier/veilles/*
           git commit -m "Veille mensuelle automatisée"
           git push
