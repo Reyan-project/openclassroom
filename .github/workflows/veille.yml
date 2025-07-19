@@ -22,7 +22,7 @@ jobs:
       - name: 📦 Installer Python et les dépendances
         run: |
           pip install --upgrade pip
-          pip install requests beautifulsoup4 pandas jupyter
+          pip install requests beautifulsoup4 pandas csv datetime os
 
       - name: 📂 Créer le dossier veilles si absent
         run: mkdir -p projets/veille_metier/veilles
