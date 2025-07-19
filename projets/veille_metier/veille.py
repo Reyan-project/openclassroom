@@ -9,7 +9,7 @@ import os
 # 1 = veille_github généraliste, 2 = veille_data data science
 MODE = 1
 DOSSIER = "projets/veille_metier/veilles/"  # Dossier cible pour tous tes fichiers
-
+date_str = datetime.date.today().strftime("%Y-%m")
 # Assure la création du dossier si inexistant
 os.makedirs(DOSSIER, exist_ok=True)
 
@@ -168,7 +168,7 @@ def mettre_a_jour_connaissances_data(nouveaux_resultats, fichier):
 def generate_veille_github():
     date_str = datetime.date.today().strftime("%Y-%m")
     filename = f"{DOSSIER}veille_github_{date_str}.csv"
-    base_connaissances = f"{DOSSIER}connaissances_perso.csv"
+    base_connaissances = f"{DOSSIER}/connaissances_perso.csv"
     all_results = []
     topics = {
         "python": "Python",
@@ -206,7 +206,7 @@ def generate_veille_github():
 def automatique_veille_data():
     date_str = datetime.date.today().strftime("%Y-%m")
     filename = f"{DOSSIER}veille_data_{date_str}.csv"
-    base_connaissances = f"{DOSSIER}connaissances_data.csv"
+    base_connaissances = f"{DOSSIER}/connaissances_data.csv"
     all_results = []
     topics = {
         "python": "Python",
