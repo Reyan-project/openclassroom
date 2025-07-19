@@ -1,17 +1,20 @@
+python
 import requests
 from bs4 import BeautifulSoup
 import csv
 import datetime
 import pandas as pd
+import os
 
-############## PARAMETRAGE PAR DEF # 1 = mode veille_github, 2 = data_science
-MODE = 1  # 1 = veille_github, 2 = data_science
-DOSSIER = "projets/veille_metier/veilles"  # Dossier cible pour tous CSV
+############## PARAMETRAGE ##############
+# 1 = veille_github généraliste, 2 = veille_data data science
+MODE = 1
+DOSSIER = "projets/veille_metier/veilles"  # Dossier cible pour tous tes fichiers
 
-#######################
-# COMMUN à tous les modes
-#######################
+# Assure la création du dossier si inexistant
+os.makedirs(DOSSIER, exist_ok=True)
 
+############## COMMUN ##############
 def classify_type_github(description):
     if not description:
         return "Autre"
@@ -43,29 +46,24 @@ def classify_type_data(description):
             return t
     return "Autre"
 
-
 def scrape_github_trending(language="python", mode="github"):
     url = f"https://github.com/trending/{language}?since=daily"
     headers = {"User-Agent": "Mozilla/5.0"}
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, "html.parser")
     projects = []
-
     for repo in soup.find_all("article", class_="Box-row")[:50]:
         try:
             repo_name = repo.h2.a.text.strip().replace("\n", "").replace(" ", "")
             owner, name = repo_name.split("/") if "/" in repo_name else ("N/A", repo_name)
             desc_tag = repo.find("p", class_="col-9 color-fg-muted my-1 pr-4")
             description = desc_tag.text.strip() if desc_tag else "Pas de description"
-            if mode == "github":
-                type_col = classify_type_github(description)
-            else:
-                type_col = classify_type_data(description)
-
+            type_col = (
+                classify_type_github(description) if mode == "github" else classify_type_data(description)
+            )
             stars_tag = repo.find("span", class_="d-inline-block float-sm-right")
             stars_text = stars_tag.text.strip() if stars_tag else "0"
             stars_number = "".join(c for c in stars_text if c.isdigit())
-
             projects.append({
                 "Langage": language,
                 "Nom": name,
@@ -77,13 +75,12 @@ def scrape_github_trending(language="python", mode="github"):
             print("❌ Erreur dans le parsing d’un dépôt :", e)
     return projects
 
-###################### VEILLE GITHUB GENERALISTE #####################
+############## VEILLE GITHUB ##############
 def charger_connaissances_perso(fichier):
     try:
         connaissances = pd.read_csv(fichier)
     except FileNotFoundError:
-        colonnes = ["Langage", "Nom", "Type", "Description", "Étoiles",
-                    "Connu", "Maîtrise", "Priorité_apprentissage", "Objectif_personnel"]
+        colonnes = ["Langage", "Nom", "Type", "Description", "Étoiles", "Connu", "Maîtrise", "Priorité_apprentissage", "Objectif_personnel"]
         connaissances = pd.DataFrame(columns=colonnes)
         connaissances.to_csv(fichier, index=False)
     return connaissances.fillna("")
@@ -120,7 +117,7 @@ def mettre_a_jour_connaissances_perso(nouveaux_resultats, fichier):
         fusion.to_csv(fichier, index=False)
         print(f"🔁 Fichier {fichier} mis à jour avec {len(fusion) - len(anciens)} nouveaux outils.")
 
-##################### VEILLE DATA SCIENCE #####################
+############## VEILLE DATA SCIENCE ##############
 def charger_connaissances_data(fichier):
     try:
         df = pd.read_csv(fichier)
@@ -168,13 +165,12 @@ def mettre_a_jour_connaissances_data(nouveaux_resultats, fichier):
     fusion_df.to_csv(fichier, index=False)
     print(f"🔁 Fichier {fichier} mis à jour.")
 
-###################### MAIN FUNCTIONS ########################
+############## MAIN FUNCTIONS ##############
 def generate_veille_github():
     date_str = datetime.date.today().strftime("%Y-%m")
     filename = f"{DOSSIER}/veille_github_{date_str}.csv"
     base_connaissances = f"{DOSSIER}/connaissances_perso.csv"
     all_results = []
-
     topics = {
         "python": "Python",
         "javascript": "JavaScript",
@@ -186,32 +182,25 @@ def generate_veille_github():
         "machine-learning": "Machine Learning",
         "deep-learning": "Deep Learning",
     }
-
     print("📡 Scraping GitHub Trending en cours...")
-
     for key, label in topics.items():
         projets = scrape_github_trending(key, mode="github")
         for p in projets:
             p["Langage"] = label
             p["Date"] = date_str
             all_results.append(p)
-
     print(f"📦 {len(all_results)} projets collectés.")
-
     connaissances_df = charger_connaissances_perso(base_connaissances)
     enriched = enrichir_resultats_avec_priorisation(all_results, connaissances_df)
-
     fieldnames = [
         "Langage", "Nom", "Type", "Déjà_connu", "Maîtrise",
         "À_travailler", "Objectif_personnel", "Étoiles", "Date", "Description"
     ]
-
     with open(filename, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         for row in enriched:
             writer.writerow(row)
-
     print(f"✅ Fichier veille enregistré : {filename}")
     mettre_a_jour_connaissances_perso(all_results, base_connaissances)
 
@@ -222,8 +211,6 @@ def automatique_veille_data():
     all_results = []
     topics = {
         "python": "Python",
-        # "r": "R",         
-        # "julia": "Julia",
         "jupyter-notebook": "Jupyter",
     }
     for key, label in topics.items():
@@ -245,11 +232,8 @@ def automatique_veille_data():
     print(f"✅ Fichier veille mensuelle : {filename}")
     mettre_a_jour_connaissances_data(enriched, base_connaissances)
 
-################# ENTRYPOINT LANCEMENT ####################
+############## ENTRYPOINT ##############
 if __name__ == "__main__":
-    import os
-    if not os.path.exists(DOSSIER):
-        os.makedirs(DOSSIER)
     if MODE == 1:
         generate_veille_github()
     else:
