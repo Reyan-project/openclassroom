@@ -6,8 +6,8 @@ import pandas as pd
 import os
 
 ############## PARAMETRAGE ##############
-# 1 = veille_github généraliste, 2 = veille_data data science
-MODE = 1
+# 1 = veille_github généraliste, 2 = veille_data data science,3 = veille_github généraliste et veille_data data science
+MODE = 3
 
 # Dossier cible pour tous tes fichiers (toujours relatif à la racine du repo)
 DOSSIER = os.path.join("projets", "veille_metier", "veilles")
@@ -239,5 +239,10 @@ def automatique_veille_data():
 if __name__ == "__main__":
     if MODE == 1:
         generate_veille_github()
-    else:
+    elif MODE == 2:
         automatique_veille_data()
+    elif MODE == 3:
+        generate_veille_github()
+        automatique_veille_data()
+    else:
+        print("MODE non reconnu ! Utilise 1, 2 ou 3.")
