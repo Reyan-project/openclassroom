@@ -2,7 +2,7 @@ name: veille automatique du mois
 
 on:
   schedule:
-    - cron: '5 6 1 * *'    # Chaque 1er du mois à 6h05 UTC
+    - cron: '5 6 1 * *' # chaque 1er du mois à 6h05 UTC
   workflow_dispatch:
 
 jobs:
@@ -13,34 +13,47 @@ jobs:
       - name: 📥 Cloner le dépôt
         uses: actions/checkout@v4
 
-      - name: 📝 Vérifier la structure du projet (racine)
+      - name: 🔍 Débogage initial - racine
         run: ls -al
 
-      - name: 📝 Vérifier le dossier projets/veille_metier (debug)
-        run: ls -al projets/veille_metier || echo "Pas de dossier projets/veille_metier"
+      - name: 🔍 Débogage initial - projets
+        run: ls -al projets || echo "Pas de dossier 'projets'"
+
+      - name: 🔍 Débogage initial - veille_metier
+        run: ls -al projets/veille_metier || echo "Pas de dossier veille_metier"
 
       - name: 📦 Installer Python et les dépendances
         run: |
           pip install --upgrade pip
-          pip install requests beautifulsoup4 pandas csv datetime os
+          pip install requests beautifulsoup4 pandas jupyter
 
       - name: 📂 Créer le dossier veilles si absent
         run: mkdir -p projets/veille_metier/veilles
 
-      - name: 🚀 Lancer le script principal
-        run: python projets/veille_metier/veuille.py
+      - name: 🚀 Lancer le script Python
+        run: python projets/veille_metier/veille.py
 
-      - name: 📝 Lister les fichiers générés
+      - name: 🔎 Lister tous les fichiers générés (debug)
+        run: find . -type f
+
+      - name: 🛠️ Déplacer manuellement les fichiers veille si besoin
+        run: |
+          mv veille_github_*.csv projets/veille_metier/veilles/ 2>/dev/null || true
+          mv veille_data_*.csv projets/veille_metier/veilles/ 2>/dev/null || true
+          mv connaissances_perso.csv projets/veille_metier/veilles/ 2>/dev/null || true
+          mv connaissances_data.csv projets/veille_metier/veilles/ 2>/dev/null || true
+
+      - name: 📝 Vérifier fichiers dans 'projets/veille_metier/veilles'
         run: ls -al projets/veille_metier/veilles
 
-      - name: 🔄 Ajouter les fichiers générés dans Git (si présents)
+      - name: 🔄 Ajouter les fichiers générés dans Git
         run: |
-           if compgen -G "projets/veille_metier/veilles/*" > /dev/null; then
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if ls projets/veille_metier/veilles/* 1> /dev/null 2>&1; then
             git add projets/veille_metier/veilles/*
             git commit -m "Veille mensuelle automatisée"
             git push
-            else
-            echo "Aucun fichier à ajouter dans veilles/"
-            fi
+          else
+            echo "Aucun fichier à ajouter"
+          fi
