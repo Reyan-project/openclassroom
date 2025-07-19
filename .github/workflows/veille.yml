@@ -43,17 +43,17 @@ jobs:
           mv connaissances_perso.csv projets/veille_metier/veilles/ 2>/dev/null || true
           mv connaissances_data.csv projets/veille_metier/veilles/ 2>/dev/null || true
 
-      - name: 📝 Vérifier fichiers dans 'projets/veille_metier/veilles'
-        run: ls -al projets/veille_metier/veilles
-
-      - name: 🔄 Ajouter les fichiers générés dans Git
+      - name: 🔄 Commit & push SEULEMENT s'il y a des fichiers ET récupère le main distant
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          if ls projets/veille_metier/veilles/* 1> /dev/null 2>&1; then
+          FILES=$(find projets/veille_metier/veilles -type f | wc -l)
+          if [ "$FILES" -gt "0" ]; then
             git add projets/veille_metier/veilles/*
             git commit -m "Veille mensuelle automatisée"
+            # Tirer les modifs distantes AVANT de tenter un push
+            git pull --rebase origin main
             git push
           else
-            echo "Aucun fichier à ajouter"
+            echo "Aucun fichier à commiter dans projets/veille_metier/veilles"
           fi
