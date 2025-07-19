@@ -33,15 +33,14 @@ jobs:
       - name: 📝 Lister les fichiers générés
         run: ls -al projets/veille_metier/veilles
 
-      - name: 🔄 Ajouter les fichiers générés dans Git SI des fichiers existent
+      - name: 🔄 Ajouter les fichiers générés dans Git (si présents)
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          FILES=$(find projets/veille_metier/veilles -type f | wc -l)
-          if [ "$FILES" -gt "0" ]; then
-            git add projets/veille_metier/veilles/*
-            git commit -m "Veille mensuelle automatisée"
-            git push
+          if compgen -G "projets/veille_metier/veilles/*" > /dev/null; then
+          git add projets/veille_metier/veilles/*
+          git commit -m "Veille mensuelle automatisée"
+          git push
           else
-            echo "Aucun fichier à commiter dans projets/veille_metier/veilles"
+          echo "Aucun fichier à ajouter dans veilles/"
           fi
