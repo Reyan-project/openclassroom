@@ -20,7 +20,8 @@ jobs:
 
       - name: 📂 Vérifier la présence du dossier veilles
         run: mkdir -p "projets/veille métier/veilles"
-
+      - name: 📝 Lister les fichiers du dossier
+        run: ls -al projets/veille_metier
       - name: 🚀 Lancer le script
         run: python "projets/veille métier/veuille.py"
 
