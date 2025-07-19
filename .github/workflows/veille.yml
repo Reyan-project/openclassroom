@@ -31,7 +31,7 @@ jobs:
         run: mkdir -p projets/veille_metier/veilles
 
       - name: 🚀 Lancer le script Python
-        run: python projets/veille_metier/veuille.py
+        run: python projets/veille_metier/veille.py
 
       - name: 📝 Vérifier fichiers dans 'projets/veille_metier/veilles'
         run: ls -al projets/veille_metier/veilles
