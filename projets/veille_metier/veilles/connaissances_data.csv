@@ -1,0 +1,61 @@
+Langage,Nom,Type,Déjà_connu,Maîtrise,À_travailler,Objectif_personnel,Étoiles,Date,Description
+Python,open_deep_research,Autre,,,oui,,322,2025-07,Pas de description
+Python,maigret,Autre,,,oui,,524,2025-07,🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+Python,LTX-Video,Autre,,,oui,,86,2025-07,Official repository for LTX-Video
+Python,markitdown,Autre,,,oui,,1382,2025-07,Python tool for converting files and office documents to Markdown.
+Python,MediaManager,Autre,,,oui,,206,2025-07,A modern selfhosted media management system for your media library
+Python,OpenHands,Autre,,,oui,,58,2025-07,"🙌 OpenHands: Code Less, Make More"
+Python,maple-font,ML,,,oui,,16,2025-07,"Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项"
+Python,MegaParse,NLP,,,oui,,121,2025-07,"File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs."
+Python,MaxKB,Autre,,,oui,,52,2025-07,🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
+Python,localGPT,Data,,,oui,,250,2025-07,Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+Python,airflow,ML,,,oui,,39,2025-07,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+Python,KubeDiagrams,DataViz,,,oui,,27,2025-07,"Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state"
+Python,pydantic-ai,NLP,,,oui,,52,2025-07,Agent Framework / shim to use Pydantic with LLMs
+Python,black,Autre,,,oui,,26,2025-07,The uncompromising Python code formatter
+R,seurat,Autre,,,oui,,1,2025-07,R toolkit for single cell genomics
+R,shiny,Autre,,,oui,,2,2025-07,Easy interactive web applications with R
+R,BiocStickers,Autre,,,oui,,0,2025-07,Stickers for some Bioconductor packages - feel free to contribute and/or modify.
+R,signac,Data,,,oui,,0,2025-07,R toolkit for the analysis of single-cell chromatin data
+R,infercnv,Autre,,,oui,,2,2025-07,Inferring CNV from Single-Cell RNA-Seq
+R,phyloseq,Data,,,oui,,0,2025-07,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:"
+R,dada2,Data,,,oui,,1,2025-07,Accurate sample inference from amplicon data with single nucleotide resolution
+R,ggplot2,DataViz,,,oui,,0,2025-07,An implementation of the Grammar of Graphics in R
+R,CellChat,Data,,,oui,,0,2025-07,"R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data"
+R,renv,Autre,,,oui,,0,2025-07,renv: Project environments for R.
+R,gcam-core,Autre,,,oui,,0,2025-07,GCAM -- The Global Change Analysis Model
+R,clusterProfiler,Data,,,oui,,0,2025-07,📊 A universal enrichment tool for interpreting omics data
+R,devtools,Autre,,,oui,,1,2025-07,Tools to make an R developer's life easier
+R,DoubletFinder,Data,,,oui,,1,2025-07,R package for detecting doublets in single-cell RNA sequencing data
+R,reticulate,Autre,,,oui,,1,2025-07,R Interface to Python
+R,seurat-disk,Autre,,,oui,,0,2025-07,Interfaces for HDF5-based Single Cell File Formats
+R,labs,Autre,,,oui,,0,2025-07,Rmd source files for the HarvardX series PH525x
+R,swirl_courses,Autre,,,oui,,0,2025-07,🎓 A collection of interactive courses for the swirl R package.
+R,sf,ML,,,oui,,0,2025-07,Simple Features for R
+R,harmony,Data,,,oui,,0,2025-07,"Fast, sensitive and accurate integration of single-cell data with Harmony"
+R,monocle3,Autre,,,oui,,0,2025-07,Pas de description
+R,ProgrammingAssignment2,Autre,,,oui,,0,2025-07,Repository for Programming Assignment 2 for R Programming on Coursera
+Julia,General,Autre,,,oui,,0,2025-07,The official registry of general Julia packages
+Julia,OrdinaryDiffEq.jl,ML,,,oui,,0,2025-07,"High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)"
+Julia,Makie.jl,Data,,,oui,,1,2025-07,Interactive data visualizations and plotting in Julia
+Julia,julia,NLP,,,oui,,5,2025-07,The Julia Programming Language
+Jupyter,pytorch-deep-learning,ML,,,oui,,43,2025-07,Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+Jupyter,segment-anything,ML,,,oui,,28,2025-07,"The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
+Jupyter,rag-from-scratch,Autre,,,oui,,56,2025-07,Pas de description
+Jupyter,Hands-On-Large-Language-Models,NLP,,,oui,,83,2025-07,"Official code repo for the O'Reilly Book - ""Hands-On Large Language Models"""
+Jupyter,langchain,NLP,,,oui,,77,2025-07,🦜🔗 Build context-aware reasoning applications
+Jupyter,RAG_Techniques,NLP,,,oui,,59,2025-07,This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+Jupyter,Qwen2.5-VL,NLP,,,oui,,27,2025-07,"Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud."
+Jupyter,data-engineer-handbook,Data,,,oui,,75,2025-07,This is a repo with links to everything you'd ever want to learn about data engineering
+Jupyter,digital-forensics-lab,Autre,,,oui,,12,2025-07,Free hands-on digital forensics labs for students and faculty
+Jupyter,GenAI_Agents,ML,,,oui,,75,2025-07,"This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems."
+Jupyter,Python-100-Days,Autre,,,oui,,66,2025-07,Python - 100天从新手到大师
+Jupyter,generative-ai,ML,,,oui,,12,2025-07,"Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI"
+Jupyter,mujoco_playground,Autre,,,oui,,3,2025-07,An open-source library for GPU-accelerated robot learning and sim-to-real transfer.
+Jupyter,Inpaint-Anything,ML,,,oui,,4,2025-07,Inpaint anything using Segment Anything and inpainting models.
+Jupyter,GenerativeAIExamples,ML,,,oui,,5,2025-07,Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
+Jupyter,vertex-ai-samples,ML,,,oui,,2,2025-07,"Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI."
+Jupyter,PythonDataScienceHandbook,Data,,,oui,,10,2025-07,Python Data Science Handbook: full text in Jupyter Notebooks
+Jupyter,Data-Science-For-Beginners,Data,,,oui,,6,2025-07,"10 Weeks, 20 Lessons, Data Science for All!"
+Jupyter,LLMs-from-scratch,NLP,,,oui,,79,2025-07,"Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"
+Jupyter,learnopencv,Autre,,,oui,,7,2025-07,Learn OpenCV : C++ and Python Examples
