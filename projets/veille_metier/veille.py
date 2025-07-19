@@ -167,8 +167,8 @@ def mettre_a_jour_connaissances_data(nouveaux_resultats, fichier):
 ############## MAIN FUNCTIONS ##############
 def generate_veille_github():
     date_str = datetime.date.today().strftime("%Y-%m")
-    filename = f"{DOSSIER}/veille_github_{date_str}.csv"
-    base_connaissances = f"{DOSSIER}/connaissances_perso.csv"
+    filename = f"{DOSSIER}veille_github_{date_str}.csv"
+    base_connaissances = f"{DOSSIER}connaissances_perso.csv"
     all_results = []
     topics = {
         "python": "Python",
@@ -205,8 +205,8 @@ def generate_veille_github():
 
 def automatique_veille_data():
     date_str = datetime.date.today().strftime("%Y-%m")
-    filename = f"{DOSSIER}/veille_data_{date_str}.csv"
-    base_connaissances = f"{DOSSIER}/connaissances_data.csv"
+    filename = f"{DOSSIER}veille_data_{date_str}.csv"
+    base_connaissances = f"{DOSSIER}connaissances_data.csv"
     all_results = []
     topics = {
         "python": "Python",
