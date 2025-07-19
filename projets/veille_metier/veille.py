@@ -8,9 +8,9 @@ import os
 ############## PARAMETRAGE ##############
 # 1 = veille_github généraliste, 2 = veille_data data science
 MODE = 1
-DOSSIER = "projets/veille_metier/veilles/"  # Dossier cible pour tous tes fichiers
-date_str = datetime.date.today().strftime("%Y-%m")
-# Assure la création du dossier si inexistant
+
+# Dossier cible pour tous tes fichiers (toujours relatif à la racine du repo)
+DOSSIER = os.path.join("projets", "veille_metier", "veilles")
 os.makedirs(DOSSIER, exist_ok=True)
 
 ############## COMMUN ##############
@@ -167,8 +167,10 @@ def mettre_a_jour_connaissances_data(nouveaux_resultats, fichier):
 ############## MAIN FUNCTIONS ##############
 def generate_veille_github():
     date_str = datetime.date.today().strftime("%Y-%m")
-    filename = f"{DOSSIER}veille_github_{date_str}.csv"
-    base_connaissances = f"{DOSSIER}/connaissances_perso.csv"
+    filename = os.path.join(DOSSIER, f"veille_github_{date_str}.csv")
+    base_connaissances = os.path.join(DOSSIER, "connaissances_perso.csv")
+    print("Chemin de sortie fichier veille :", os.path.abspath(filename))
+    print("Chemin de sortie base connaissances :", os.path.abspath(base_connaissances))
     all_results = []
     topics = {
         "python": "Python",
@@ -200,13 +202,15 @@ def generate_veille_github():
         writer.writeheader()
         for row in enriched:
             writer.writerow(row)
-    print(f"✅ Fichier veille enregistré : {filename}")
+    print(f"✅ Fichier veille enregistré : {os.path.abspath(filename)}")
     mettre_a_jour_connaissances_perso(all_results, base_connaissances)
 
 def automatique_veille_data():
     date_str = datetime.date.today().strftime("%Y-%m")
-    filename = f"{DOSSIER}veille_data_{date_str}.csv"
-    base_connaissances = f"{DOSSIER}/connaissances_data.csv"
+    filename = os.path.join(DOSSIER, f"veille_data_{date_str}.csv")
+    base_connaissances = os.path.join(DOSSIER, "connaissances_data.csv")
+    print("Chemin de sortie fichier veille data :", os.path.abspath(filename))
+    print("Chemin de sortie base connaissances data :", os.path.abspath(base_connaissances))
     all_results = []
     topics = {
         "python": "Python",
@@ -228,7 +232,7 @@ def automatique_veille_data():
         writer.writeheader()
         for row in enriched:
             writer.writerow(row)
-    print(f"✅ Fichier veille mensuelle : {filename}")
+    print(f"✅ Fichier veille mensuelle : {os.path.abspath(filename)}")
     mettre_a_jour_connaissances_data(enriched, base_connaissances)
 
 ############## ENTRYPOINT ##############
