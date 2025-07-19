@@ -21,7 +21,7 @@ jobs:
       - name: 📂 Créer le dossier veilles si absent
         run: mkdir -p veilles
 
-      - name: 🚀 Lancer le script converti
+      - name: 🚀 Lancer le script
         run: python veuille.py
 
       - name: 🔄 Ajouter les fichiers générés dans Git
