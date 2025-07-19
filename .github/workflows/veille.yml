@@ -43,8 +43,8 @@ jobs:
           mv connaissances_perso.csv projets/veille_metier/veilles/ 2>/dev/null || true
           mv connaissances_data.csv projets/veille_metier/veilles/ 2>/dev/null || true
 
-          - name: 🔄 Ajouter les fichiers générés dans Git SI des fichiers existent
-            run: |
+      - name: 🔄 Ajouter les fichiers générés dans Git SI des fichiers existent
+        run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           FILES=$(find projets/veille_metier/veilles -type f | wc -l)
