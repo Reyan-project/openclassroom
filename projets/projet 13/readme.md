@@ -1,5 +1,3 @@
-Voici un exemple de fichier `README.md` structuré, simple et adapté aux attentes d’un portfolio data professionnel sur GitHub (à copier-coller dans ton projet). Les consignes sont écrites en langage Markdown comme il faut, avec des conseils pour insérer tes images, vidéos et liens à la bonne place.
-
 # Projet 13 – Créez votre portfolio de professionnel de la data
 
 ## &#128203; Scénario
@@ -41,16 +39,22 @@ Aéroworld, leader mondial de l’aéronautique, souhaite recruter un Data Analy
 
 ## 1. Carte mentale et demande du client
 
-![Carte mentale](./images/carte_mentale.pngme de Gantt
+<img src='./images/carte mental.png' height=640px />
+<img src='./images/gant.png' height=640px />
+<img src='./images/mock up tableau de bord.png' height=640px />
+<img src='./images/tableau de bord.png' height=640px />
 
-![Diagramme de Gantt](./images/gantt.pngaux de bord Power BI
+## 2. Veille métier :
+[Projet de veille sur GitHub](https://github.com/Reyan-project/openclassroom/tree/main/projets/veille_metier)
+[Projet de veille automatisé sur GitHub](https://github.com/Reyan-project/openclassroom/tree/main/.github/workflows)
 
-![Tableau de bord](./images/dashboard 4. Livrables (cliquez pour télécharger)
 
-- [Analyse du besoin métier client (PDF)](./docs/analyse_besoin.pdf)
-- [Cahier des charges (PDF)](./docs/cahier_des_charges.pdf)
-- [Mock-up carte mentale (PDF)](./docs/carte_mentale.pdf)
-- [Mock-up de tableaux de bord (PDF)](./docs/mockup_dashboard.pdf)
-- [Vidéo de formation (YouTube ou lien mp4)](https://lien_youtube_ou_mp4)
+## 3. Livrables demandé :
+
+- [Analyse du besoin métier client (PDF)](./docs/Analyse%20des%20besoins%20métiers.pdf)
+- [Cahier des charges (PDF)](./docs/cahier_des_charges+-fonctionnel.pdf)
+- [Mock-up carte mentale (PDF)](./docs/mind%20map.pdf)
+- [Mock-up de tableaux de bord (PDF)](./docs/projet%20tableau%20de%20bord.pdf)
+- [Vidéo de formation](./docs/video%20tuto%20power%20bi.zip)
 
 ### 🎯 Pour visualiser les livrables, consultez les images ci-dessus ou cliquez sur chaque lien pour télécharger le livrable correspondant.
