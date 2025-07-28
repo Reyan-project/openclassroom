@@ -1,0 +1,11 @@
+N°,Nom de l’étape,Début,Fin,Statut,Responsable,Commentaires
+1,Rédaction carte mentale,2025-07-20,2025-07-21,Terminé,Moi,Validation mentor requise
+2,Analyse besoin client,2025-07-22,2025-07-23,Terminé,Moi,Livrable à valider
+3,Cahier des charges,2025-07-22,2025-07-23,Terminé,Moi,Livrable à valider
+4,Création diagramme de Gantt,2025-07-24,2025-07-24,En cours,Moi,Planification détaillée
+5,Réalisation mock-up,2025-07-25,2025-07-26,À faire,Moi,2 dashboards + accueil
+6,Validation mock-up mentor,2025-07-27,2025-07-27,En cours,Mentor,Corriger si besoin
+7,Création livrables finaux,2025-07-28,2025-07-29,À faire,Moi,Vidéo + documentation
+8,Validation livrables finaux,2025-07-30,2025-07-30,À faire,Mentor,Présenter avant publication
+"9,Assemblage portfolio final,2025-07-31,2025-07-31,À faire,Moi,""Page Github, Streamlit, etc."""
+10,Soutenance blanche mentor,2025-08-01,2025-08-01,À faire,Mentor,Améliorer présentation

@@ -1,0 +1,20 @@
+Outils,Projet 13,Projet 12,Projet 11,Projet 10,Projet 9,Projet 8,Projet 7,Projet 6,Projet 5,Projet 4,Projet 3,Projet 2,Projet 1
+nom projet,Créez votre portfolio de professionnel de la data,Détectez des faux billets avec Python,Produisez une étude de marché avec Python,Faites une étude sur l'eau potable avec Power BI,Analyser les ventes d'une librairie avec Python,Analysez des indicateurs de l'égalité femme-homme avec Knime,Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets,Optimiser la gestion des données d'une boutique,Créez et utilisez une base de données immobilière avec SQL,Réaliser une étude de santé publique,Requêtez une base de données avec SQL,Faites une analyse de ventes pour un e-commerce,Prenez en main votre formation de Data Analyst
+date de fin,,2025-07-09,2025-05-25,2025-01-19,2025-01-05,2024-12-06,2024-11-17,2024-09-12,2024-07-28,2024-06-14,2024-05-14,2024-04-24,2024-03-19
+Jupyter Notebook,,1,1,1,1,1,1,1,,1,,,
+Python,1,1,1,1,1,1,1,1,,1,,,
+NumPy,1,1,1,1,1,1,1,1,,1,,,
+Pandas,1,1,1,1,1,1,1,1,,1,,,
+Matplotlib,,1,1,,,1,1,1,,1,,,
+Seaborn,,1,1,,,,,,,,,,
+SciPy,,1,1,,,1,,,,,,,
+scikit-learn,,1,1,,,,,,,,,,
+statsmodels,,1,,,,,,,,,,,
+Joblib,,1,,,,,,,,,,,
+Knime,,,,,,1,,,,,,,
+Power BI,1,,,1,,,1,,,,,,
+SQLite,,,,,,,,,1,,1,,
+Excel,1,,,,,,,,,,1,,
+Github,1,,,,,,,,,,,,
+Github pages,1,,,,,,,,,,,,
+Github worflow,1,,,,,,,,,,,,

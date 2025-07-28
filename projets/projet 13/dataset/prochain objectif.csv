@@ -1,0 +1,48 @@
+Langage,Nom,Type,Déjà_connu,Maîtrise,À_travailler,Objectif_personnel,Étoiles,Date,Description,Niveau_difficulté
+Python,pandas,Data,oui,oui,oui pour data analyst,Manipuler et analyser des datasets tabulaires,1,2025-07,"Analyse, nettoyage et manipulation avancée des données tabulaires",1
+Python,numpy,Data,oui,oui,oui pour data analyst,"Comprendre les tableaux numériques, bases pour pandas",2,2025-07,"Calcul scientifique, manipulation de matrices et vecteurs efficaces",1
+Python,matplotlib,DataViz,oui,oui,oui pour data analyst,Créer des graphiques personnalisés,3,2025-07,"Librairie de visualisation de base, courbes, barres, etc.",1
+Python,seaborn,DataViz,oui,oui,oui pour data analyst,Faire des graphiques statistiques avancés facilement,4,2025-07,"Visualisation statistique, simplifie matplotlib",2
+Python,scikit-learn,ML,oui,oui,oui pour data science,Découvrir l'apprentissage automatique (machine learning),5,2025-07,"Classification, régression, modèle ML clé-en-main",2
+Python,jupyter,Notebook,oui,oui,oui pour data analyst,Apprendre à documenter et exécuter ton code pas à pas,6,2025-07,"Bloc-notes interactif, base travail data scientist",1
+Python,requests,Web/API,oui,non,oui pour data analyst,Savoir interroger les API et récupérer des données web,7,2025-07,"Client HTTP simple, base de tout scraping/API",1
+Python,fastapi,Web/API,non,non,oui pour automatisation,Développer des APIs pour exposer tes analyses et bots,8,2025-07,Création rapide d'API web modernes asynchrones,2
+Python,smtplib,Automatisation,non,non,oui pour automatisation,Envoyer des mails automatiquement,9,2025-07,Envoi d'emails en Python (SMTP),1
+Python,schedule,Automatisation,oui,non,oui pour automatisation,Planifier l'exécution de tes scripts,10,2025-07,Programmation de tâches récurrentes,1
+Python,os,Automatisation,oui,non,oui pour automatisation,"Automatiser la gestion des fichiers, chemins, dossiers",11,2025-07,Gestion du système d'exploitation,1
+Python,sqlite3,BDD,oui,oui,oui pour data analyst,Apprendre à stocker des données localement,12,2025-07,Base de données légère embarquée,2
+Python,openai,IA/LLM,oui,non,oui pour IA,Utiliser les modèles GPT pour texte/assistants,13,2025-07,"Appel API OpenAI (GPT, Chat, Embedding...)",2
+Python,langchain,IA/LLM,non,non,oui pour IA,Créer des agents intelligents reliés à des modèles LLM,14,2025-07,Framework d’orchestration de LLM (chatbot/agents),3
+Python,statsmodels,Statistiques,oui,non,optionnelle,"Apprendre les modèles statistiques (régressions avancées, tests)",15,2025-07,"Statistiques, modèles linéaires, séries temporelles",3
+Python,openpyxl,Automatisation,non,non,utile si excel,Lire/écrire des fichiers Excel en Python,16,2025-07,Manipulation de fichiers xlsx,1
+Python,xlsxwriter,Automatisation,non,non,utile si excel,Générer des tableaux Excel de reporting,17,2025-07,Création avancée de fichiers Excel,2
+Python,plotly,DataViz,non,non,utile si besoin interactif,Créer des graphiques web interactifs,18,2025-07,Dashboarding et visualisation web,2
+Python,altair,DataViz,non,non,optionnelle,Essayer une librairie de visualisation déclarative moderne,19,2025-07,Visualisation interactive basée sur JSON,3
+Python,beautifulsoup4,Web/Scraping,oui,non,utile si besoin scraping,Extraire des données depuis des pages web,20,2025-07,Analyse et extraction du HTML,2
+Python,scrapy,Web/Scraping,non,non,optionnelle,Si tu veux scraper des sites web complets,21,2025-07,Framework professionnel de scraping,3
+Python,flask,Web/API,non,non,optionnelle,Comprendre la base du dév web Python,22,2025-07,Micro-framework web ultra simple à déployer,2
+Python,sys,Automatisation,non,non,utile parfois pour scripts avancés,Gérer les arguments et l'environnement,23,2025-07,Interface avec le système Python,2
+Python,sqlalchemy,BDD,non,non,optionnelle,ORM pour gérer des bases plus complexes ou pro,24,2025-07,Abstraction SQL pro en Python,3
+Python,duckdb,BDD,non,non,optionnelle,Explorer les requêtes SQL très rapides sur CSV/Parquet,25,2025-07,Analytics SQL local performant,3
+Python,pyodbc,BDD,non,non,optionnelle,Si tu connectes Excel/Python à SQL Server/Oracle,26,2025-07,Connexion aux bases de données externes,2
+Python,pyarrow,Data/IO,non,non,utile si datasets volumineux,Lire/écrire du Parquet (dataframe hautes perf.),27,2025-07,Gestion format de données performant,3
+Python,pyyaml,Automatisation,non,non,optionnelle,Lire/écrire des fichiers YAML (GitHub Actions...),28,2025-07,Lecture/écriture fichiers YAML en Python,2
+Python,discord.py,Bot,non,non,oui pour automation/bot,Créer un bot Discord et automatiser des réponses,29,2025-07,Gestion bot Discord complet depuis Python,2
+Python,pyttsx3,Voix,non,non,optionnelle,Synthétiser la voix (bot vocal),30,2025-07,Générer de la voix en local,2
+Python,speechrecognition,Voix,non,non,optionnelle,Transcrire de la voix en texte (bot vocal),31,2025-07,Reconnaissance vocale micro/local/Google API,3
+Python,transformers,IA/LLM,non,non,oui pour IA,Accéder à toutes les architectures modèles IA modernes,32,2025-07,"Librairie de modèles préentraînés (BERT, GPT...)",4
+Python,docker,Devops,non,non,oui pour automatisation,"Automatiser, isoler et déployer tes outils/IA facilement",33,2025-07,"Conteneurisation, déploiement applications",3
+Python,github-actions,Devops,non,non,oui pour automatisation,"Automatiser tout sur GitHub (veille, test, backup...)",34,2025-07,Workflows automatiques sur GitHub,2
+Python,notion_client,API,non,non,optionnelle,Automatiser l’écriture/lecture sur Notion,35,2025-07,Connexion à l'API Notion,3
+Python,gspread,API Google,non,non,optionnelle,Automatiser la gestion des Google Sheets,36,2025-07,API Google Sheets Python friendly,2
+Python,google-auth,API Google,non,non,optionnelle,"Authentification OAuth sur API Google (gmail, sheets...)",37,2025-07,Gestion sécurité/google API,2
+Python,datapane,Reporting,non,non,optionnelle,Générer des rapports interactifs à partager,38,2025-07,Dashboarding et cloud report,3
+Python,streamlit,Reporting,non,non,optionnelle,Créer des apps web data et IA sans HTML,39,2025-07,"Apps web pour analyses ou IA, super simple",2
+Cloud,Power BI,DataViz,oui,oui,oui pour data analyst,Créer des dashboards interactifs pros (BI),40,2025-07,"Outil BI interactif Microsoft, connector Excel/Python",2
+Cloud,Tableau,DataViz,non,non,oui pour data analyst,Apprendre à explorer les données en glisser-déposer,41,2025-07,Leader des dashboard visuels en entreprise,2
+Cloud,Google Sheets,Data,oui,oui,utile si collaboratif,Manipuler et partager des données facilement,42,2025-07,Feuilles de calcul collaboratives Google,1
+Cloud,Google Data Studio,Reporting,non,non,optionnelle,Créer des dashboards connectés aux API/Google,43,2025-07,Dashboarding web cloud,2
+Cloud,Google Cloud AI,IA Cloud,non,non,utile si IA cloud,"Accès aux IA Google (Vision, NLP...)",44,2025-07,API IA Google (payant après quota),4
+Cloud,Azure AI,IA Cloud,non,non,utile si IA cloud,"Tester les IA Microsoft (Texte/Image, reconnaissance, ML...)",45,2025-07,API Cognitive Services Azure,4
+Divers,zapier,Automatisation,non,non,utile si automatisation no-code,"Automatiser des workflows entre applis (emails, google...)",46,2025-07,Plateforme no-code d'automatisation,2
+Divers,make,Automatisation,non,non,utile si automatisation no-code,Pousser plus loin l'automatisation de tâches,47,2025-07,Automatisation visuelle de workflows,3
