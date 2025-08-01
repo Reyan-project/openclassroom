@@ -59,3 +59,33 @@ Jupyter,PythonDataScienceHandbook,Data,,,oui,,10,2025-07,Python Data Science Han
 Jupyter,Data-Science-For-Beginners,Data,,,oui,,6,2025-07,"10 Weeks, 20 Lessons, Data Science for All!"
 Jupyter,LLMs-from-scratch,NLP,,,oui,,79,2025-07,"Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"
 Jupyter,learnopencv,Autre,,,oui,,7,2025-07,Learn OpenCV : C++ and Python Examples
+Python,ComfyUI-WanVideoWrapper,Autre,,,oui,,41,2025-08,Pas de description
+Python,SkyReels-V2,Autre,,,oui,,36,2025-08,SkyReels-V2: Infinite-length Film Generative model
+Python,ART,ML,,,oui,,279,2025-08,"Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!"
+Python,copyparty,ML,,,oui,,3325,2025-08,"Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps"
+Python,storm,NLP,,,oui,,26,2025-08,An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+Python,supervision,Autre,,,oui,,513,2025-08,We write your reusable computer vision tools. 💜
+Python,HippoRAG,DataViz,,,oui,,12,2025-08,[NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank.
+Python,tinygrad,Autre,,,oui,,6,2025-08,You like pytorch? You like micrograd? You love tinygrad! ❤️
+Python,WebAgent,ML,,,oui,,100,2025-08,🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
+Python,gpt-pilot,ML,,,oui,,15,2025-08,The first real AI developer
+Python,jumpserver,Data,,,oui,,18,2025-08,"JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser."
+Python,galaxy,Data,,,oui,,7,2025-08,Data intensive science for everyone.
+Python,dash,Data,,,oui,,63,2025-08,Data Apps & Dashboards for Python. No JavaScript Required.
+Python,mcp-for-beginners,ML,,,oui,,132,2025-08,"This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration."
+Python,camel,ML,,,oui,,33,2025-08,🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
+Python,ANUS,Autre,,,oui,,103,2025-08,Pas de description
+Python,alphafold3,Autre,,,oui,,8,2025-08,AlphaFold 3 inference pipeline.
+Jupyter,llm-app,Data,,,oui,,58,2025-08,"Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more."
+Jupyter,TinyTroupe,NLP,,,oui,,21,2025-08,LLM-powered multiagent persona simulation for imagination enhancement and business insights.
+Jupyter,DeepLearningExamples,ML,,,oui,,2,2025-08,State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
+Jupyter,llm_engineering,NLP,,,oui,,13,2025-08,Repo to accompany my mastering LLM engineering course
+Jupyter,learn-agentic-ai,DataViz,,,oui,,8,2025-08,"Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes."
+Jupyter,AI-Gateway,ML,,,oui,,9,2025-08,"APIM ❤️ AI - This repo contains experiments on Azure API Management's AI capabilities, integrating with Azure OpenAI, AI Foundry, and much more 🚀 . New workshop experience at https://aka.ms/ai-gateway/workshop"
+Jupyter,azureml-examples,ML,,,oui,,0,2025-08,"Official community-driven Azure Machine Learning examples, tested with GitHub Actions."
+Jupyter,Anime4K,Autre,,,oui,,11,2025-08,A High-Quality Real Time Upscaler for Anime Video
+Jupyter,google-research,Autre,,,oui,,9,2025-08,Google Research
+Jupyter,notebooks,Autre,,,oui,,18,2025-08,"A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, Florence-2, PaliGemma 2, and Qwen2.5VL."
+Jupyter,yolov7,ML,,,oui,,3,2025-08,Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
+Jupyter,fabric-toolbox,Autre,,,oui,,2,2025-08,"Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your success with Microsoft Fabric, brought to you by Fabric CAT."
+Jupyter,sam2,ML,,,oui,,12,2025-08,"The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
