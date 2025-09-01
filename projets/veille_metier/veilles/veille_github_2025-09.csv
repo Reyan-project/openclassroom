@@ -1,0 +1,128 @@
+Langage,Nom,Type,Déjà_connu,Maîtrise,À_travailler,Objectif_personnel,Étoiles,Date,Description
+Python,WhisperLiveKit,Web,non,non,oui,Découvrir,445,2025-09,"Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI."
+Python,theHarvester,ML,non,non,oui,Découvrir,214,2025-09,"E-mails, subdomains and names Harvester - OSINT"
+Python,Python,Autre,non,non,oui,Découvrir,437,2025-09,All Algorithms implemented in Python
+Python,paperless-ngx,Autre,non,non,oui,Découvrir,123,2025-09,"A community-supported supercharged document management system: scan, index and archive all your documents"
+Python,OpenHands,Autre,,,,,101,2025-09,"🙌 OpenHands: Code Less, Make More"
+Python,cheat.sh,Autre,non,non,oui,Découvrir,42,2025-09,the only cheat sheet you need
+Python,qlib,ML,non,non,oui,Découvrir,124,2025-09,"Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process."
+Python,Retrieval-based-Voice-Conversion-WebUI,Data,non,non,oui,Découvrir,26,2025-09,Easily train a good VC model with voice data <= 10 mins!
+Python,llama-stack,Autre,non,non,oui,Découvrir,11,2025-09,Composable building blocks to build Llama Apps
+Python,MiniCPM-V,NLP,non,non,oui,Découvrir,110,2025-09,"MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone"
+Python,pydantic-ai,Web,,,,,49,2025-09,Agent Framework / shim to use Pydantic with LLMs
+Python,freqtrade,Autre,non,non,oui,Découvrir,33,2025-09,"Free, open source crypto trading bot"
+Python,DeepFaceLab,Autre,non,non,oui,Découvrir,42,2025-09,DeepFaceLab is the leading software for creating deepfakes.
+Python,RD-Agent,Data,non,non,oui,Découvrir,16,2025-09,"Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report"
+Python,pwndbg,Autre,non,non,oui,Découvrir,9,2025-09,Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
+Python,InvenTree,Autre,non,non,oui,Découvrir,207,2025-09,Open Source Inventory Management System
+Python,f2,Autre,non,non,oui,Découvrir,110,2025-09,High-speed downloader for multiple platforms
+Python,AdalFlow,NLP,non,non,oui,Découvrir,21,2025-09,AdalFlow: The library to build & auto-optimize LLM applications.
+JavaScript,EasySpider,Web,non,non,oui,Découvrir,127,2025-09,A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+JavaScript,screenity,Autre,non,non,oui,Découvrir,111,2025-09,The free and privacy-friendly screen recorder with no limits 🎥
+JavaScript,TalkingHead,Web,non,non,oui,Découvrir,16,2025-09,Talking Head (3D): A JavaScript class for real-time lip-sync using Ready Player Me full-body 3D avatars.
+JavaScript,lighthouse,Web,,,,,13,2025-09,"Automated auditing, performance metrics, and best practices for the web."
+JavaScript,popcorn-desktop,API,non,non,oui,Découvrir,1,2025-09,"Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork"
+JavaScript,brave-browser,Web,non,non,oui,Découvrir,12,2025-09,"Brave browser for Android, iOS, Linux, macOS, Windows."
+JavaScript,filestash,Web,non,non,oui,Découvrir,90,2025-09,"📁 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ..."
+JavaScript,claude-task-master,ML,non,non,oui,Découvrir,49,2025-09,"An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others."
+JavaScript,nuclei-templates,Autre,non,non,oui,Découvrir,6,2025-09,Community curated list of templates for the nuclei engine to find security vulnerabilities.
+JavaScript,edex-ui,Autre,non,non,oui,Découvrir,16,2025-09,"A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support."
+JavaScript,Sub-Store,Autre,,,,,9,2025-09,"Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!"
+JavaScript,hakuneko,Autre,non,non,oui,Découvrir,6,2025-09,"Manga & Anime Downloader for Linux, Windows & MacOS"
+JavaScript,Sigma-Web-Dev-Course,Web,non,non,oui,Découvrir,26,2025-09,Source Code for Sigma Web Development Course
+JavaScript,escrcpy,Autre,non,non,oui,Découvrir,11,2025-09,📱 Display and control your Android device graphically with scrcpy.
+JavaScript,next.js,Web,,,,,35,2025-09,The React Framework
+Rust,hyperswitch,Autre,non,non,oui,Découvrir,683,2025-09,"An open source payments switch written in Rust to make payments fast, reliable and affordable"
+Rust,bevy,Data,non,non,oui,Découvrir,36,2025-09,A refreshingly simple data-driven game engine built in Rust
+Rust,comprehensive-rust,Autre,non,non,oui,Découvrir,60,2025-09,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+Rust,chroma,Data,non,non,oui,Découvrir,155,2025-09,Open-source search and retrieval database for AI applications.
+Rust,baml,Web,non,non,oui,Découvrir,39,2025-09,The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+Rust,codex,Autre,non,non,oui,Découvrir,179,2025-09,Lightweight coding agent that runs in your terminal
+Rust,rust,Autre,non,non,oui,Découvrir,39,2025-09,Empowering everyone to build reliable and efficient software.
+Rust,niri,Autre,,,,,84,2025-09,A scrollable-tiling Wayland compositor.
+Rust,zed,Autre,non,non,oui,Découvrir,72,2025-09,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+Rust,jj,Autre,non,non,oui,Découvrir,57,2025-09,A Git-compatible VCS that is both simple and powerful
+Rust,tabby,ML,non,non,oui,Découvrir,11,2025-09,Self-hosted AI coding assistant
+Rust,egui,Web,non,non,oui,Découvrir,11,2025-09,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+Rust,czkawka,Autre,non,non,oui,Découvrir,30,2025-09,"Multi functional app to find duplicates, empty folders, similar images etc."
+Rust,tfhe-rs,Data,non,non,oui,Découvrir,5,2025-09,TFHE-rs: A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.
+Rust,book,Autre,non,non,oui,Découvrir,5,2025-09,The Rust Programming Language
+Rust,turso,Data,,,,,14,2025-09,Turso Database is a project to build the next evolution of SQLite.
+Rust,flox,Autre,non,non,oui,Découvrir,11,2025-09,Developer environments you can take with you
+Rust,arnis,ML,,,,,10,2025-09,Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+Rust,spotify-player,Autre,non,non,oui,Découvrir,4,2025-09,A Spotify player in the terminal with full feature parity
+Rust,embassy,Web,non,non,oui,Découvrir,6,2025-09,"Modern embedded framework, using Rust and async."
+Go,nats-server,API,non,non,oui,Découvrir,12,2025-09,"High-Performance server for NATS.io, the cloud and edge native messaging system."
+Go,traefik,API,non,non,oui,Découvrir,21,2025-09,The Cloud Native Application Proxy
+Go,sing-box,API,non,non,oui,Découvrir,25,2025-09,The universal proxy platform
+Go,s-ui,Web,non,non,oui,Découvrir,22,2025-09,An advanced Web Panel • Built for SagerNet/Sing-Box
+Go,yay,Autre,non,non,oui,Découvrir,8,2025-09,Yet another Yogurt - An AUR Helper written in Go
+Go,syncthing,Autre,non,non,oui,Découvrir,33,2025-09,Open Source Continuous File Synchronization
+Go,Xray-core,Autre,non,non,oui,Découvrir,28,2025-09,"Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+Go,netbird,Autre,non,non,oui,Découvrir,9,2025-09,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls."
+Go,terraform,API,non,non,oui,Découvrir,81,2025-09,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+Go,harbor,Autre,non,non,oui,Découvrir,24,2025-09,"An open source trusted cloud native registry project that stores, signs, and scans content."
+Go,rule,Autre,non,non,oui,Découvrir,10,2025-09,Clash、Sing-box、等分流规则
+Go,kubo,Autre,non,non,oui,Découvrir,4,2025-09,An IPFS implementation in Go
+Go,lazysql,Data,non,non,oui,Découvrir,28,2025-09,A cross-platform TUI database management tool written in Go.
+Go,neko,Web,non,non,oui,Découvrir,29,2025-09,A self hosted virtual browser that runs in docker and uses WebRTC.
+Go,cockroach,Data,non,non,oui,Découvrir,6,2025-09,"CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
+Go,kops,Autre,non,non,oui,Découvrir,6,2025-09,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management"
+Go,beszel,API,non,non,oui,Découvrir,14,2025-09,"Lightweight server monitoring hub with historical data, docker stats, and alerts."
+Go,cli,Autre,non,non,oui,Découvrir,18,2025-09,GitHub’s official command line tool
+Go,crush,ML,non,non,oui,Découvrir,135,2025-09,The glamourous AI coding agent for your favourite terminal 💘
+Go,hugo,Web,non,non,oui,Découvrir,19,2025-09,The world’s fastest framework for building websites.
+Go,CloudflareSpeedTest,Autre,non,non,oui,Découvrir,21,2025-09,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+Go,beats,Autre,non,non,oui,Découvrir,3,2025-09,🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+TypeScript,activepieces,API,non,non,oui,Découvrir,204,2025-09,AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+TypeScript,humanlayer,Web,non,non,oui,Découvrir,60,2025-09,"HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling"
+TypeScript,metamask-mobile,Web,non,non,oui,Découvrir,2,2025-09,Mobile web browser providing access to websites that use the Ethereum blockchain
+TypeScript,bytebot,ML,non,non,oui,Découvrir,81,2025-09,"Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment."
+TypeScript,mercur,Autre,non,non,oui,Découvrir,31,2025-09,Open-source multi-vendor marketplace platform for B2B & B2C. Built on top of MedusaJS. Create your own custom marketplace. 🛍️
+TypeScript,WrenAI,NLP,,,,,170,2025-09,"⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds."
+TypeScript,lobe-chat,Web,non,non,oui,Découvrir,47,2025-09,"🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
+TypeScript,eliza,Autre,non,non,oui,Découvrir,13,2025-09,Autonomous agents for everyone
+TypeScript,Pulse,Autre,non,non,oui,Découvrir,42,2025-09,A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
+TypeScript,babel,Web,non,non,oui,Découvrir,5,2025-09,🐠 Babel is a compiler for writing next generation JavaScript.
+TypeScript,create-better-t-stack,Autre,non,non,oui,Découvrir,23,2025-09,A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
+TypeScript,mcp-ui,Autre,non,non,oui,Découvrir,137,2025-09,SDK for UI over MCP. Create next-gen UI experiences!
+TypeScript,openai-realtime-agents,API,non,non,oui,Découvrir,23,2025-09,"This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API."
+TypeScript,dub,Autre,non,non,oui,Découvrir,12,2025-09,"The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more."
+TypeScript,note-gen,ML,non,non,oui,Découvrir,123,2025-09,A cross-platform Markdown AI note-taking software.
+TypeScript,infisical,Autre,non,non,oui,Découvrir,16,2025-09,"Infisical is the open-source platform for secrets management, PKI, and SSH access."
+Java,1brc,NLP,non,non,oui,Découvrir,19,2025-09,1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+Java,Mindustry,Autre,non,non,oui,Découvrir,9,2025-09,The automation tower defense RTS
+Java,conductor,Autre,,,,,91,2025-09,Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications
+Java,awesome-low-level-design,Autre,non,non,oui,Découvrir,27,2025-09,Learn Low Level Design (LLD) and prepare for interviews using free resources.
+Java,revanced-patches,Autre,non,non,oui,Découvrir,7,2025-09,🧩 Patches for ReVanced
+Java,FoldCraftLauncher,Autre,non,non,oui,Découvrir,4,2025-09,"Fold Craft Launcher, an Android Minecraft : Java Edition launcher."
+Java,DSA-Bootcamp-Java,Data,non,non,oui,Découvrir,14,2025-09,"This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs."
+Java,AndroRAT,API,non,non,oui,Découvrir,5,2025-09,A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
+Java,ghidra,Web,non,non,oui,Découvrir,24,2025-09,Ghidra is a software reverse engineering (SRE) framework
+Java,Paper,API,non,non,oui,Découvrir,0,2025-09,"The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies"
+Java,jdk,ML,,,,,8,2025-09,JDK main-line development https://openjdk.org/projects/jdk
+Java,SmartTube,Autre,,,,,17,2025-09,Browse media content with your own rules on Android TV
+Java,adk-java,ML,non,non,oui,Découvrir,4,2025-09,"An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+Java,intellij-community,Autre,,,,,5,2025-09,IntelliJ IDEA & IntelliJ Platform
+Java,Infinity-For-Reddit,API,non,non,oui,Découvrir,9,2025-09,A Reddit client for Android
+Java,HyperCeiler,ML,non,non,oui,Découvrir,5,2025-09,HyperOS enhancement module - Make HyperOS Great Again!
+Java,cryptomator,API,non,non,oui,Découvrir,11,2025-09,"Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data."
+Java,jadx,Autre,non,non,oui,Découvrir,10,2025-09,Dex to Java decompiler
+Java,termux-app,Autre,non,non,oui,Découvrir,32,2025-09,Termux - a terminal emulator application for Android OS extendible by variety of packages.
+Java,fabric,Autre,non,non,oui,Découvrir,2,2025-09,Essential hooks for modding with Fabric.
+Jupyter,prompt-eng-interactive-tutorial,Autre,non,non,oui,Découvrir,43,2025-09,Anthropic's Interactive Prompt Engineering Tutorial
+Jupyter,AI-For-Beginners,ML,non,non,oui,Découvrir,26,2025-09,"12 Weeks, 24 Lessons, AI for All!"
+Jupyter,llm_engineering,NLP,,,,,5,2025-09,Repo to accompany my mastering LLM engineering course
+Jupyter,aie-book,ML,non,non,oui,Découvrir,93,2025-09,"[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)"
+Jupyter,agents,ML,non,non,oui,Découvrir,12,2025-09,Repo for the Complete Agentic AI Engineering Course
+Jupyter,learn-modern-ai-python,ML,non,non,oui,Découvrir,0,2025-09,Learn Modern AI Assisted Python with Type Hints
+Jupyter,handson-ml2,ML,non,non,oui,Découvrir,3,2025-09,"A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2."
+Jupyter,ai-agents-for-beginners,ML,non,non,oui,Découvrir,101,2025-09,11 Lessons to Get Started Building AI Agents
+Jupyter,notebooks,NLP,,,,,13,2025-09,"100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more."
+Jupyter,pandas_exercises,Autre,non,non,oui,Découvrir,6,2025-09,Practice your pandas skills!
+Jupyter,Machine-Learning-Specialization-Coursera,ML,non,non,oui,Découvrir,8,2025-09,Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG
+Jupyter,openai-cookbook,API,non,non,oui,Découvrir,36,2025-09,Examples and guides for using the OpenAI API
+Jupyter,dio-lab-open-source,Autre,non,non,oui,Découvrir,9,2025-09,"Repositório do lab ""Contribuindo em um Projeto Open Source no GitHub"" da Digital Innovation One."
+Jupyter,machine-learning-book,ML,non,non,oui,Découvrir,7,2025-09,Code Repository for Machine Learning with PyTorch and Scikit-Learn
+Jupyter,learn-agentic-ai,ML,,,,,5,2025-09,"Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes."
+Jupyter,gemini-fullstack-langgraph-quickstart,Autre,non,non,oui,Découvrir,2,2025-09,Get started with building Fullstack Agents using Gemini 2.5 and LangGraph

@@ -1,0 +1,35 @@
+Langage,Nom,Type,Déjà_connu,Maîtrise,À_travailler,Objectif_personnel,Étoiles,Date,Description
+Python,WhisperLiveKit,NLP,,,oui,,445,2025-09,"Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI."
+Python,theHarvester,ML,,,oui,,214,2025-09,"E-mails, subdomains and names Harvester - OSINT"
+Python,Python,Autre,,,oui,,437,2025-09,All Algorithms implemented in Python
+Python,paperless-ngx,Autre,,,oui,,123,2025-09,"A community-supported supercharged document management system: scan, index and archive all your documents"
+Python,OpenHands,Autre,,,oui,,101,2025-09,"🙌 OpenHands: Code Less, Make More"
+Python,cheat.sh,Autre,,,oui,,42,2025-09,the only cheat sheet you need
+Python,qlib,ML,,,oui,,124,2025-09,"Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process."
+Python,Retrieval-based-Voice-Conversion-WebUI,Data,,,oui,,26,2025-09,Easily train a good VC model with voice data <= 10 mins!
+Python,llama-stack,Autre,,,oui,,11,2025-09,Composable building blocks to build Llama Apps
+Python,MiniCPM-V,ML,,,oui,,110,2025-09,"MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone"
+Python,pydantic-ai,NLP,,,oui,,49,2025-09,Agent Framework / shim to use Pydantic with LLMs
+Python,freqtrade,Autre,,,oui,,33,2025-09,"Free, open source crypto trading bot"
+Python,DeepFaceLab,Autre,,,oui,,42,2025-09,DeepFaceLab is the leading software for creating deepfakes.
+Python,RD-Agent,Data,,,oui,,16,2025-09,"Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report"
+Python,pwndbg,Autre,,,oui,,9,2025-09,Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
+Python,InvenTree,Autre,,,oui,,207,2025-09,Open Source Inventory Management System
+Python,f2,Autre,,,oui,,110,2025-09,High-speed downloader for multiple platforms
+Python,AdalFlow,NLP,,,oui,,21,2025-09,AdalFlow: The library to build & auto-optimize LLM applications.
+Jupyter,prompt-eng-interactive-tutorial,Autre,,,oui,,43,2025-09,Anthropic's Interactive Prompt Engineering Tutorial
+Jupyter,AI-For-Beginners,ML,,,oui,,26,2025-09,"12 Weeks, 24 Lessons, AI for All!"
+Jupyter,llm_engineering,NLP,,,oui,,5,2025-09,Repo to accompany my mastering LLM engineering course
+Jupyter,aie-book,ML,,,oui,,93,2025-09,"[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)"
+Jupyter,agents,ML,,,oui,,12,2025-09,Repo for the Complete Agentic AI Engineering Course
+Jupyter,learn-modern-ai-python,ML,,,oui,,0,2025-09,Learn Modern AI Assisted Python with Type Hints
+Jupyter,handson-ml2,ML,,,oui,,3,2025-09,"A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2."
+Jupyter,ai-agents-for-beginners,ML,,,oui,,101,2025-09,11 Lessons to Get Started Building AI Agents
+Jupyter,notebooks,NLP,,,oui,,13,2025-09,"100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more."
+Jupyter,pandas_exercises,Data,,,oui,,6,2025-09,Practice your pandas skills!
+Jupyter,Machine-Learning-Specialization-Coursera,ML,,,oui,,8,2025-09,Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG
+Jupyter,openai-cookbook,ML,,,oui,,36,2025-09,Examples and guides for using the OpenAI API
+Jupyter,dio-lab-open-source,Autre,,,oui,,9,2025-09,"Repositório do lab ""Contribuindo em um Projeto Open Source no GitHub"" da Digital Innovation One."
+Jupyter,machine-learning-book,ML,,,oui,,7,2025-09,Code Repository for Machine Learning with PyTorch and Scikit-Learn
+Jupyter,learn-agentic-ai,DataViz,,,oui,,5,2025-09,"Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes."
+Jupyter,gemini-fullstack-langgraph-quickstart,DataViz,,,oui,,2,2025-09,Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
