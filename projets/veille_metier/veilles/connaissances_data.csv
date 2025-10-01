@@ -118,3 +118,25 @@ Jupyter,openai-cookbook,ML,,,oui,,36,2025-09,Examples and guides for using the O
 Jupyter,dio-lab-open-source,Autre,,,oui,,9,2025-09,"Repositório do lab ""Contribuindo em um Projeto Open Source no GitHub"" da Digital Innovation One."
 Jupyter,machine-learning-book,ML,,,oui,,7,2025-09,Code Repository for Machine Learning with PyTorch and Scikit-Learn
 Jupyter,gemini-fullstack-langgraph-quickstart,DataViz,,,oui,,2,2025-09,Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
+Python,MoneyPrinterTurbo,ML,,,oui,,2099,2025-10,利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+Python,fastapi,Autre,,,oui,,72,2025-10,"FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+Python,openpilot,Autre,,,oui,,663,2025-10,"openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
+Python,claude-agent-sdk-python,Autre,,,oui,,178,2025-10,Pas de description
+Python,devops-exercises,Autre,,,oui,,56,2025-10,"Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+Python,awesome-llm-apps,ML,,,oui,,138,2025-10,"Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+Python,PDFMathTranslate,ML,,,oui,,131,2025-10,PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+Python,pdfplumber,ML,,,oui,,243,2025-10,"Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables."
+Python,IMSI-catcher,Autre,,,oui,,17,2025-10,This program show you IMSI numbers of cellphones around you.
+Python,MinerU,NLP,,,oui,,132,2025-10,Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+Python,HelloGitHub,Autre,,,oui,,107,2025-10,"分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub."
+Python,erpnext,Autre,,,oui,,224,2025-10,Free and Open Source Enterprise Resource Planning (ERP)
+Python,onyx,ML,,,oui,,198,2025-10,Open Source AI Platform - AI Chat with advanced features that works with every LLM
+Python,disposable-email-domains,ML,,,oui,,5,2025-10,a list of disposable email domains
+Python,BEHAVIOR-1K,ML,,,oui,,8,2025-10,BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx
+Jupyter,generative-ai-for-beginners,ML,,,oui,,101,2025-10,"21 Lessons, Get Started Building with Generative AI"
+Jupyter,claude-cookbooks,Autre,,,oui,,64,2025-10,A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+Jupyter,AI-Tutorial-Codes-Included,ML,,,oui,,19,2025-10,Codes/Notebooks for AI Projects
+Jupyter,CLIP,ML,,,oui,,19,2025-10,"CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image"
+Jupyter,LIBERO,Autre,,,oui,,2,2025-10,Benchmarking Knowledge Transfer in Lifelong Robot Learning
+Jupyter,pyannote-audio,ML,,,oui,,19,2025-10,"Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding"
+Jupyter,handson-ml3,ML,,,oui,,15,2025-10,"A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2."
