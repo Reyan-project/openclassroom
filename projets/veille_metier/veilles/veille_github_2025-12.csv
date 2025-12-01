@@ -1,0 +1,128 @@
+Langage,Nom,Type,Déjà_connu,Maîtrise,À_travailler,Objectif_personnel,Étoiles,Date,Description
+Python,TrendRadar,ML,non,non,oui,Découvrir,690,2025-12,🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+Python,cursor-free-vip,NLP,non,non,oui,Découvrir,118,2025-12,[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+Python,LightRAG,NLP,non,non,oui,Découvrir,65,2025-12,"[EMNLP2025] ""LightRAG: Simple and Fast Retrieval-Augmented Generation"""
+Python,verl,NLP,non,non,oui,Découvrir,65,2025-12,verl: Volcano Engine Reinforcement Learning for LLMs
+Python,Memori,NLP,non,non,oui,Découvrir,242,2025-12,"Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems"
+Python,call-center-ai,API,non,non,oui,Découvrir,177,2025-12,"Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!"
+Python,WSABuilds,Autre,non,non,oui,Découvrir,79,2025-12,Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
+Python,n8n-workflows,Web,non,non,oui,Découvrir,262,2025-12,all of the workflows of n8n i could find (also from the site itself)
+Python,OpCore-Simplify,Autre,non,non,oui,Découvrir,235,2025-12,A tool designed to simplify the creation of OpenCore EFI
+Python,MineContext,NLP,non,non,oui,Découvrir,57,2025-12,MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+Python,adk-python,ML,non,non,oui,Découvrir,56,2025-12,"An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+Python,SurfSense,Autre,non,non,oui,Découvrir,21,2025-12,"Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more. Join our Discord: https://discord.gg/ejRNvftDp9"
+Python,RLinf,NLP,non,non,oui,Découvrir,7,2025-12,"RLinf is a flexible and scalable open-source infrastructure designed for post-training foundation models (LLMs, VLMs, VLAs) via reinforcement learning."
+Python,tinker-cookbook,ML,non,non,oui,Découvrir,9,2025-12,Post-training with Tinker
+Python,googlesans-code,Autre,non,non,oui,Découvrir,7,2025-12,The Google Sans Code font family
+Python,AP2,ML,,,,,4,2025-12,Building a Secure and Interoperable Future for AI-Driven Payments.
+Python,PythonRobotics,NLP,non,non,oui,Découvrir,26,2025-12,Python sample codes and textbook for robotics algorithms.
+JavaScript,engine,Web,,,,,106,2025-12,"Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF"
+JavaScript,serverless-dns,Autre,non,non,oui,Découvrir,6,2025-12,"The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io"
+JavaScript,claude-code-templates,Autre,non,non,oui,Découvrir,128,2025-12,CLI tool for configuring and monitoring Claude Code
+JavaScript,gutenberg,ML,,,,,1,2025-12,The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+JavaScript,awesome-mac,Autre,non,non,oui,Découvrir,72,2025-12," Now we have become very big, Different from the original idea. Collect premium software in various categories."
+JavaScript,open-webui,API,,,,,91,2025-12,"User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+JavaScript,awesome-copilot,Autre,,,,,34,2025-12,"Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot."
+JavaScript,nuclei-templates,Autre,,,,,9,2025-12,Community curated list of templates for the nuclei engine to find security vulnerabilities.
+JavaScript,drawio-desktop,Autre,,,,,16,2025-12,Official electron build of draw.io
+JavaScript,clean-code-javascript,Web,non,non,oui,Découvrir,9,2025-12,Clean Code concepts adapted for JavaScript
+JavaScript,luci,Autre,non,non,oui,Découvrir,1,2025-12,LuCI - OpenWrt Configuration Interface
+JavaScript,react-complete-guide-course-resources,Autre,,,,,3,2025-12,"React - The Complete Guide Course Resources (Code, Attachments, Slides)"
+JavaScript,javascript,Web,,,,,5,2025-12,JavaScript Style Guide
+JavaScript,claude-relay-service,ML,,,,,12,2025-12,CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+JavaScript,algorithm-visualizer,Autre,non,non,oui,Découvrir,3,2025-12,🎆Interactive Online Platform that Visualizes Algorithms from Code
+Rust,jj,Autre,,,,,32,2025-12,A Git-compatible VCS that is both simple and powerful
+Rust,librespot,API,non,non,oui,Découvrir,3,2025-12,Open Source Spotify client library
+Rust,openvas-scanner,ML,non,non,oui,Découvrir,2,2025-12,This repository contains the scanner component for Greenbone Community Edition.
+Rust,niri,Autre,,,,,68,2025-12,A scrollable-tiling Wayland compositor.
+Rust,dynamo,Web,non,non,oui,Découvrir,10,2025-12,A Datacenter Scale Distributed Inference Serving Framework
+Rust,gpui-component,Autre,non,non,oui,Découvrir,47,2025-12,Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+Rust,Daft,Data,non,non,oui,Découvrir,9,2025-12,"High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale"
+Rust,vello,Autre,non,non,oui,Découvrir,6,2025-12,A GPU compute-centric 2D renderer.
+Rust,vibe-kanban,ML,,,,,7,2025-12,Kanban board to manage your AI coding agents
+Rust,etl,Data,non,non,oui,Découvrir,4,2025-12,Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.
+Rust,wstunnel,Web,non,non,oui,Découvrir,7,2025-12,Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
+Rust,nushell,Autre,non,non,oui,Découvrir,14,2025-12,A new type of shell
+Rust,fish-shell,Autre,,,,,10,2025-12,The user-friendly command line shell.
+Rust,sui,ML,non,non,oui,Découvrir,3,2025-12,"Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language"
+Rust,fnm,Autre,non,non,oui,Découvrir,14,2025-12,"🚀 Fast and simple Node.js version manager, built in Rust"
+Rust,influxdb,Data,non,non,oui,Découvrir,2,2025-12,"Scalable datastore for metrics, events, and real-time analytics"
+Rust,rustdesk,Autre,,,,,44,2025-12,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+Rust,uv,Autre,,,,,57,2025-12,"An extremely fast Python package and project manager, written in Rust."
+Rust,sea-orm,Autre,,,,,9,2025-12,🐚 An async & dynamic ORM for Rust
+Rust,anki,Autre,non,non,oui,Découvrir,12,2025-12,Anki is a smart spaced repetition flashcard program
+Rust,ore,Autre,non,non,oui,Découvrir,4,2025-12,It's time to mine.
+Go,adk-go,ML,non,non,oui,Découvrir,122,2025-12,"An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+Go,traefik,API,,,,,98,2025-12,The Cloud Native Application Proxy
+Go,milvus,Data,,,,,135,2025-12,"Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+Go,frp,API,non,non,oui,Découvrir,35,2025-12,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+Go,Olares,Data,non,non,oui,Découvrir,18,2025-12,Olares: An Open-Source Personal Cloud to Reclaim Your Data
+Go,lazydocker,Autre,non,non,oui,Découvrir,15,2025-12,The lazier way to manage everything docker
+Go,validator,Autre,,,,,9,2025-12,"💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving"
+Go,podman,ML,non,non,oui,Découvrir,11,2025-12,Podman: A tool for managing OCI containers and pods.
+Go,opentelemetry-collector,Autre,,,,,0,2025-12,OpenTelemetry Collector
+Go,chi,Autre,non,non,oui,Découvrir,8,2025-12,"lightweight, idiomatic and composable router for building Go HTTP services"
+Go,gin,Web,,,,,16,2025-12,"Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+Go,oauth2-proxy,API,,,,,13,2025-12,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers."
+Go,res-downloader,Autre,non,non,oui,Découvrir,11,2025-12,视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+Go,cloudreve,Autre,non,non,oui,Découvrir,13,2025-12,"🌩 Self-hosted file management and sharing system, supports multiple storage providers"
+Go,consul,Data,,,,,2,2025-12,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+Go,crossplane,Autre,non,non,oui,Découvrir,4,2025-12,The Cloud Native Control Plane
+Go,moby,ML,,,,,5,2025-12,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+Go,sqlx,Data,non,non,oui,Découvrir,5,2025-12,general purpose extensions to golang's database/sql
+Go,telegraf,Data,,,,,3,2025-12,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+Go,squirrel,Autre,non,non,oui,Découvrir,2,2025-12,Fluent SQL generation for golang
+Go,temporal,Autre,non,non,oui,Découvrir,12,2025-12,Temporal service
+Go,opencloud,API,non,non,oui,Découvrir,24,2025-12,🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
+Go,pgx,Autre,non,non,oui,Découvrir,5,2025-12,PostgreSQL driver and toolkit for Go
+TypeScript,tech-interview-handbook,Autre,non,non,oui,Découvrir,117,2025-12,Curated coding interview preparation materials for busy software engineers
+TypeScript,iptv,ML,non,non,oui,Découvrir,153,2025-12,Collection of publicly available IPTV channels from all over the world
+TypeScript,requestly,API,non,non,oui,Découvrir,28,2025-12,Free and open-source API Client & Interceptor.
+TypeScript,headlamp,Web,non,non,oui,Découvrir,7,2025-12,"A Kubernetes web UI that is fully-featured, user-friendly and extensible"
+TypeScript,angular,Web,,,,,10,2025-12,Deliver web apps with confidence 🚀
+TypeScript,gemini-cli,ML,non,non,oui,Découvrir,124,2025-12,An open-source AI agent that brings the power of Gemini directly into your terminal.
+TypeScript,vendure,Autre,non,non,oui,Découvrir,5,2025-12,"The most customizable commerce platform built with TypeScript, NestJS and GraphQL."
+TypeScript,firecrawl,Web,,,,,68,2025-12,🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+TypeScript,drawnix,Data,non,non,oui,Découvrir,9,2025-12,"开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc."
+TypeScript,FossFLOW,Autre,non,non,oui,Découvrir,16,2025-12,Make beautiful isometric infrastructure diagrams
+TypeScript,cc-switch,Autre,non,non,oui,Découvrir,52,2025-12,"A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+TypeScript,dokploy,Data,non,non,oui,Découvrir,36,2025-12,"Open Source Alternative to Vercel, Netlify and Heroku."
+TypeScript,adk-web,Web,non,non,oui,Découvrir,6,2025-12,Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging.
+TypeScript,freeCodeCamp,Autre,,,,,97,2025-12,"freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+TypeScript,modelcontextprotocol,NLP,non,non,oui,Découvrir,15,2025-12,Specification and documentation for the Model Context Protocol
+TypeScript,portainer,Autre,non,non,oui,Découvrir,12,2025-12,Making Docker and Kubernetes management easy.
+TypeScript,vercel,Autre,non,non,oui,Découvrir,6,2025-12,Develop. Preview. Ship.
+Java,adk-java,ML,,,,,3,2025-12,"An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+Java,awesome-low-level-design,Autre,,,,,19,2025-12,Learn Low Level Design (LLD) and prepare for interviews using free resources.
+Java,baritone,Autre,non,non,oui,Découvrir,2,2025-12,google maps for block game
+Java,spring-ai-alibaba,Web,,,,,10,2025-12,Agentic AI Framework for Java Developers
+Java,joyagent-jdgenie,Autre,,,,,4,2025-12,开源的端到端产品级通用智能体
+Java,kkFileView,Autre,non,non,oui,Découvrir,2,2025-12,Universal File Online Preview Project based on Spring-Boot
+Java,testcontainers-java,Web,non,non,oui,Découvrir,4,2025-12,"Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+Java,Chat2DB,API,,,,,1,2025-12,"🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
+Java,awesome-system-design-resources,Autre,non,non,oui,Découvrir,15,2025-12,Learn System Design concepts and prepare for interviews using free resources.
+Java,java-sdk,API,,,,,2,2025-12,The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+Java,spring-framework,Web,,,,,4,2025-12,Spring Framework
+Java,ruoyi-ai,ML,non,non,oui,Découvrir,7,2025-12,RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+Java,flyway,Data,non,non,oui,Découvrir,3,2025-12,Flyway by Redgate • Database Migrations Made Easy.
+Java,Paper,API,,,,,4,2025-12,"The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies"
+Java,openapi-generator,API,,,,,0,2025-12,"OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
+Java,forge,Autre,,,,,5,2025-12,An unofficial rules engine for the world's greatest card game.
+Java,spring-boot,Autre,,,,,9,2025-12,"Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
+Java,spring-ai-examples,Autre,,,,,1,2025-12,Pas de description
+Jupyter,ai-agents-for-beginners,ML,,,,,44,2025-12,12 Lessons to Get Started Building AI Agents
+Jupyter,Python-100-Days,Autre,,,,,58,2025-12,Python - 100天从新手到大师
+Jupyter,cookbook,ML,non,non,oui,Découvrir,3,2025-12,Open-source AI cookbook
+Jupyter,community,Autre,non,non,oui,Découvrir,3,2025-12,Kubernetes community content
+Jupyter,deep-learning-with-python-notebooks,ML,non,non,oui,Découvrir,3,2025-12,"Jupyter notebooks for the code samples of the book ""Deep Learning with Python"""
+Jupyter,AI-Tutorial-Codes-Included,ML,,,,,15,2025-12,Codes/Notebooks for AI Projects
+Jupyter,Complete-Python-3-Bootcamp,Autre,non,non,oui,Découvrir,2,2025-12,Course Files for Complete Python 3 Bootcamp Course on Udemy
+Jupyter,agents-towards-production,ML,non,non,oui,Découvrir,27,2025-12,"This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches."
+Jupyter,sam2,ML,,,,,9,2025-12,"The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
+Jupyter,mujoco_playground,ML,,,,,1,2025-12,An open-source library for GPU-accelerated robot learning and sim-to-real transfer.
+Jupyter,BLIP,ML,non,non,oui,Découvrir,0,2025-12,PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
+Jupyter,generative-ai-for-beginners,ML,,,,,47,2025-12,"21 Lessons, Get Started Building with Generative AI"
+Jupyter,llm_engineering,NLP,,,,,9,2025-12,Repo to accompany my mastering LLM engineering course
+Jupyter,llm-app,API,,,,,19,2025-12,"Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more."
+Jupyter,llm-cookbook,NLP,non,non,oui,Découvrir,10,2025-12,面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+Jupyter,Qwen3-VL,NLP,non,non,oui,Découvrir,27,2025-12,"Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud."
