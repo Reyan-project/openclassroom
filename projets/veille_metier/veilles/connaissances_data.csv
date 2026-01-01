@@ -190,3 +190,20 @@ Jupyter,agents-towards-production,ML,,,oui,,27,2025-12,"This repository delivers
 Jupyter,BLIP,ML,,,oui,,0,2025-12,PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
 Jupyter,llm-cookbook,NLP,,,oui,,10,2025-12,面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 Jupyter,Qwen3-VL,NLP,,,oui,,27,2025-12,"Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud."
+Python,computer-use-preview,Autre,,,oui,,59,2026-01,Pas de description
+Python,pg-aiguide,ML,,,oui,,314,2026-01,MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+Python,chatterbox,Autre,,,oui,,436,2026-01,SoTA open-source TTS
+Python,metube,Autre,,,oui,,252,2026-01,Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+Python,pathway,Data,,,oui,,798,2026-01,"Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+Python,SongGeneration,Autre,,,oui,,87,2026-01,The official code repository for LeVo: High-Quality Song Generation with Multi-Preference Alignment
+Python,scipy,ML,,,oui,,3,2026-01,SciPy library main repository
+Python,skills,Autre,,,oui,,842,2026-01,Public repository for Agent Skills
+Python,awesome-math,Autre,,,oui,,14,2026-01,A curated list of awesome mathematics resources
+Python,docetl,Data,,,oui,,15,2026-01,A system for agentic LLM-powered data processing and ETL
+Python,WhisperJAV,Autre,,,oui,,116,2026-01,Pas de description
+Python,checkov,ML,,,oui,,6,2026-01,"Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew."
+Jupyter,python-docs-samples,Autre,,,oui,,1,2026-01,Code samples used on cloud.google.com
+Jupyter,OmniParser,Autre,,,oui,,6,2026-01,A simple screen parsing tool towards pure vision based GUI agent
+Jupyter,phoenix,ML,,,oui,,9,2026-01,AI Observability & Evaluation
+Jupyter,airllm,ML,,,oui,,51,2026-01,AirLLM 70B inference with single 4GB GPU
+Jupyter,silero-models,ML,,,oui,,5,2026-01,Silero Models: pre-trained text-to-speech models made embarrassingly simple
