@@ -1,0 +1,29 @@
+Langage,Nom,Type,Déjà_connu,Maîtrise,À_travailler,Objectif_personnel,Étoiles,Date,Description
+Python,BitNet,NLP,,,oui,,137,2026-02,Official inference framework for 1-bit LLMs
+Python,agent-lightning,ML,,,oui,,516,2026-02,The absolute trainer to light up AI agents.
+Python,PaddleOCR,Data,,,oui,,171,2026-02,"Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+Python,kimi-cli,Autre,,,oui,,278,2026-02,Kimi Code CLI is your next CLI agent.
+Python,TradingAgents,NLP,,,oui,,45,2026-02,TradingAgents: Multi-Agents LLM Financial Trading Framework
+Python,ebook2audiobook,NLP,,,oui,,27,2026-02,"Generate audiobooks from e-books, voice cloning & 1158+ languages!"
+Python,tchMaterial-parser,Autre,,,oui,,23,2026-02,国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
+Python,strix,ML,,,oui,,23,2026-02,Open-source AI hackers to find and fix your app’s vulnerabilities.
+Python,agno,Autre,,,oui,,40,2026-02,Build multi-agent systems that learn and improve with every interaction.
+Python,robin,ML,,,oui,,106,2026-02,AI-Powered Dark Web OSINT Tool
+Python,Archon,ML,,,oui,,3,2026-02,Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+Python,GLiNER2,Autre,,,oui,,34,2026-02,Unified Schema-Based Information Extraction
+Python,atlassian-mcp-server,NLP,,,oui,,5,2026-02,"Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice."
+Jupyter,finvizfinance,DataViz,,,oui,,9,2026-02,Finviz analysis python library.
+Jupyter,udlbook,ML,,,oui,,7,2026-02,Understanding Deep Learning - Simon J.D. Prince
+Jupyter,pytorch-deep-learning,ML,,,oui,,12,2026-02,Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+Jupyter,google-research,Autre,,,oui,,9,2026-02,Google Research
+Jupyter,amazon-bedrock-agentcore-samples,ML,,,oui,,3,2026-02,"Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment."
+Jupyter,Isaac-GR00T,Autre,,,oui,,7,2026-02,NVIDIA Isaac GR00T N1.6 - A Foundation Model for Generalist Robots.
+Jupyter,self-llm,ML,,,oui,,22,2026-02,《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+Jupyter,ai-agents-for-beginners,ML,,,oui,,58,2026-02,12 Lessons to Get Started Building AI Agents
+Jupyter,introtodeeplearning,ML,,,oui,,1,2026-02,Lab Materials for MIT 6.S191: Introduction to Deep Learning
+Jupyter,openai-cookbook,ML,,,oui,,9,2026-02,Examples and guides for using the OpenAI API
+Jupyter,medgemma,Autre,,,oui,,5,2026-02,Pas de description
+Jupyter,mlops-zoomcamp,Data,,,oui,,4,2026-02,Free MLOps course from DataTalks.Club
+Jupyter,Grounded-SAM-2,Autre,,,oui,,0,2026-02,"Grounded SAM 2: Ground and Track Anything in Videos with Grounding DINO, Florence-2 and SAM 2"
+Jupyter,langchain-academy,Autre,,,oui,,3,2026-02,Pas de description
+Jupyter,mml-book.github.io,ML,,,oui,,6,2026-02,"Companion webpage to the book ""Mathematics For Machine Learning"""
